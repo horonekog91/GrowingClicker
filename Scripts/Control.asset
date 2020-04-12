@@ -21,62 +21,59 @@ MonoBehaviour:
     %SystemSingle, null\r\n    defaultWeight: %SystemSingle, null\r\n    count: %UnityEngineUIText,
     null\r\n    height: %UnityEngineUIText, null\r\n    weight: %UnityEngineUIText,
     null\r\n    _count: %SystemInt32, null\r\n    _isMode: %SystemInt32, null\r\n
-    \   _height: %SystemSingle, null\r\n    _weight: %SystemSingle, null\r\n    __0_scale_Int32:
-    %SystemInt32, null\r\n    __0_diff_Single: %SystemSingle, null\r\n    __0_speed_Single:
-    %SystemSingle, null\r\n    __0_v3_Vector3: %UnityEngineVector3, null\r\n    __0_const_intnl_SystemInt32:
-    %SystemInt32, null\r\n    __1_const_intnl_SystemInt32: %SystemInt32, null\r\n
-    \   __2_const_intnl_SystemInt32: %SystemInt32, null\r\n    __3_const_intnl_SystemInt32:
-    %SystemInt32, null\r\n    __4_const_intnl_SystemInt32: %SystemInt32, null\r\n
-    \   __5_const_intnl_SystemInt32: %SystemInt32, null\r\n    __0_const_intnl_SystemString:
-    %SystemString, null\r\n    __1_const_intnl_SystemString: %SystemString, null\r\n
-    \   __2_const_intnl_SystemString: %SystemString, null\r\n    __3_const_intnl_SystemString:
-    %SystemString, null\r\n    __4_const_intnl_SystemString: %SystemString, null\r\n
-    \   __0_const_intnl_exitJumpLoc_UInt32: %SystemUInt32, null\r\n    __0_const_intnl_SystemUInt32:
-    %SystemUInt32, null\r\n    __1_const_intnl_exitJumpLoc_UInt32: %SystemUInt32,
-    null\r\n    __0_intnl_SystemBoolean: %SystemBoolean, null\r\n    __1_intnl_SystemBoolean:
-    %SystemBoolean, null\r\n    __10_intnl_SystemBoolean: %SystemBoolean, null\r\n
-    \   __11_intnl_SystemBoolean: %SystemBoolean, null\r\n    __2_intnl_SystemBoolean:
-    %SystemBoolean, null\r\n    __3_intnl_SystemBoolean: %SystemBoolean, null\r\n
-    \   __4_intnl_SystemBoolean: %SystemBoolean, null\r\n    __5_intnl_SystemBoolean:
-    %SystemBoolean, null\r\n    __6_intnl_SystemBoolean: %SystemBoolean, null\r\n
-    \   __7_intnl_SystemBoolean: %SystemBoolean, null\r\n    __8_intnl_SystemBoolean:
-    %SystemBoolean, null\r\n    __9_intnl_SystemBoolean: %SystemBoolean, null\r\n
-    \   __0_intnl_SystemInt32: %SystemInt32, null\r\n    __1_intnl_SystemInt32: %SystemInt32,
-    null\r\n    __2_intnl_SystemInt32: %SystemInt32, null\r\n    __3_intnl_SystemInt32:
-    %SystemInt32, null\r\n    __4_intnl_SystemInt32: %SystemInt32, null\r\n    __5_intnl_SystemInt32:
-    %SystemInt32, null\r\n    __6_intnl_SystemInt32: %SystemInt32, null\r\n    __7_intnl_SystemInt32:
-    %SystemInt32, null\r\n    __8_intnl_SystemInt32: %SystemInt32, null\r\n    __9_intnl_SystemInt32:
-    %SystemInt32, null\r\n    __0_intnl_SystemSingle: %SystemSingle, null\r\n    __1_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __10_intnl_SystemSingle: %SystemSingle, null\r\n    __11_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __12_intnl_SystemSingle: %SystemSingle, null\r\n    __13_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __14_intnl_SystemSingle: %SystemSingle, null\r\n    __15_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __16_intnl_SystemSingle: %SystemSingle, null\r\n    __17_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __18_intnl_SystemSingle: %SystemSingle, null\r\n    __19_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __2_intnl_SystemSingle: %SystemSingle, null\r\n    __20_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __21_intnl_SystemSingle: %SystemSingle, null\r\n    __22_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __23_intnl_SystemSingle: %SystemSingle, null\r\n    __24_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __25_intnl_SystemSingle: %SystemSingle, null\r\n    __26_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __27_intnl_SystemSingle: %SystemSingle, null\r\n    __28_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __29_intnl_SystemSingle: %SystemSingle, null\r\n    __3_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __30_intnl_SystemSingle: %SystemSingle, null\r\n    __31_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __32_intnl_SystemSingle: %SystemSingle, null\r\n    __33_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __34_intnl_SystemSingle: %SystemSingle, null\r\n    __35_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __36_intnl_SystemSingle: %SystemSingle, null\r\n    __37_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __38_intnl_SystemSingle: %SystemSingle, null\r\n    __39_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __4_intnl_SystemSingle: %SystemSingle, null\r\n    __40_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __41_intnl_SystemSingle: %SystemSingle, null\r\n    __42_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __43_intnl_SystemSingle: %SystemSingle, null\r\n    __44_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __45_intnl_SystemSingle: %SystemSingle, null\r\n    __46_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __47_intnl_SystemSingle: %SystemSingle, null\r\n    __48_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __49_intnl_SystemSingle: %SystemSingle, null\r\n    __5_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __6_intnl_SystemSingle: %SystemSingle, null\r\n    __7_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __8_intnl_SystemSingle: %SystemSingle, null\r\n    __9_intnl_SystemSingle:
-    %SystemSingle, null\r\n    __0_intnl_SystemString: %SystemString, null\r\n    __1_intnl_SystemString:
-    %SystemString, null\r\n    __2_intnl_SystemString: %SystemString, null\r\n    __0_intnl_UnityEngineTransform:
-    %UnityEngineTransform, null\r\n    __1_intnl_UnityEngineTransform: %UnityEngineTransform,
-    null\r\n    __2_intnl_UnityEngineTransform: %UnityEngineTransform, null\r\n    __3_intnl_UnityEngineTransform:
-    %UnityEngineTransform, null\r\n    __4_intnl_UnityEngineTransform: %UnityEngineTransform,
-    null\r\n    __5_intnl_UnityEngineTransform: %UnityEngineTransform, null\r\n    __6_intnl_UnityEngineTransform:
+    \   _height: %SystemSingle, null\r\n    _weight: %SystemSingle, null\r\n    __0_diff_Single:
+    %SystemSingle, null\r\n    __0_speed_Single: %SystemSingle, null\r\n    __0_v3_Vector3:
+    %UnityEngineVector3, null\r\n    __0_const_intnl_SystemInt32: %SystemInt32, null\r\n
+    \   __1_const_intnl_SystemInt32: %SystemInt32, null\r\n    __2_const_intnl_SystemInt32:
+    %SystemInt32, null\r\n    __3_const_intnl_SystemInt32: %SystemInt32, null\r\n
+    \   __4_const_intnl_SystemInt32: %SystemInt32, null\r\n    __5_const_intnl_SystemInt32:
+    %SystemInt32, null\r\n    __0_const_intnl_SystemString: %SystemString, null\r\n
+    \   __1_const_intnl_SystemString: %SystemString, null\r\n    __2_const_intnl_SystemString:
+    %SystemString, null\r\n    __3_const_intnl_SystemString: %SystemString, null\r\n
+    \   __4_const_intnl_SystemString: %SystemString, null\r\n    __0_const_intnl_exitJumpLoc_UInt32:
+    %SystemUInt32, null\r\n    __0_const_intnl_SystemUInt32: %SystemUInt32, null\r\n
+    \   __1_const_intnl_exitJumpLoc_UInt32: %SystemUInt32, null\r\n    __0_intnl_SystemBoolean:
+    %SystemBoolean, null\r\n    __1_intnl_SystemBoolean: %SystemBoolean, null\r\n
+    \   __10_intnl_SystemBoolean: %SystemBoolean, null\r\n    __11_intnl_SystemBoolean:
+    %SystemBoolean, null\r\n    __2_intnl_SystemBoolean: %SystemBoolean, null\r\n
+    \   __3_intnl_SystemBoolean: %SystemBoolean, null\r\n    __4_intnl_SystemBoolean:
+    %SystemBoolean, null\r\n    __5_intnl_SystemBoolean: %SystemBoolean, null\r\n
+    \   __6_intnl_SystemBoolean: %SystemBoolean, null\r\n    __7_intnl_SystemBoolean:
+    %SystemBoolean, null\r\n    __8_intnl_SystemBoolean: %SystemBoolean, null\r\n
+    \   __9_intnl_SystemBoolean: %SystemBoolean, null\r\n    __0_intnl_SystemInt32:
+    %SystemInt32, null\r\n    __1_intnl_SystemInt32: %SystemInt32, null\r\n    __2_intnl_SystemInt32:
+    %SystemInt32, null\r\n    __3_intnl_SystemInt32: %SystemInt32, null\r\n    __4_intnl_SystemInt32:
+    %SystemInt32, null\r\n    __5_intnl_SystemInt32: %SystemInt32, null\r\n    __6_intnl_SystemInt32:
+    %SystemInt32, null\r\n    __7_intnl_SystemInt32: %SystemInt32, null\r\n    __0_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __1_intnl_SystemSingle: %SystemSingle, null\r\n    __10_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __11_intnl_SystemSingle: %SystemSingle, null\r\n    __12_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __13_intnl_SystemSingle: %SystemSingle, null\r\n    __14_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __15_intnl_SystemSingle: %SystemSingle, null\r\n    __16_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __17_intnl_SystemSingle: %SystemSingle, null\r\n    __18_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __19_intnl_SystemSingle: %SystemSingle, null\r\n    __2_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __20_intnl_SystemSingle: %SystemSingle, null\r\n    __21_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __22_intnl_SystemSingle: %SystemSingle, null\r\n    __23_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __24_intnl_SystemSingle: %SystemSingle, null\r\n    __25_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __26_intnl_SystemSingle: %SystemSingle, null\r\n    __27_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __28_intnl_SystemSingle: %SystemSingle, null\r\n    __29_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __3_intnl_SystemSingle: %SystemSingle, null\r\n    __30_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __31_intnl_SystemSingle: %SystemSingle, null\r\n    __32_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __33_intnl_SystemSingle: %SystemSingle, null\r\n    __34_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __35_intnl_SystemSingle: %SystemSingle, null\r\n    __36_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __37_intnl_SystemSingle: %SystemSingle, null\r\n    __38_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __39_intnl_SystemSingle: %SystemSingle, null\r\n    __4_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __40_intnl_SystemSingle: %SystemSingle, null\r\n    __41_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __42_intnl_SystemSingle: %SystemSingle, null\r\n    __43_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __44_intnl_SystemSingle: %SystemSingle, null\r\n    __45_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __46_intnl_SystemSingle: %SystemSingle, null\r\n    __47_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __5_intnl_SystemSingle: %SystemSingle, null\r\n    __6_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __7_intnl_SystemSingle: %SystemSingle, null\r\n    __8_intnl_SystemSingle:
+    %SystemSingle, null\r\n    __9_intnl_SystemSingle: %SystemSingle, null\r\n    __0_intnl_SystemString:
+    %SystemString, null\r\n    __1_intnl_SystemString: %SystemString, null\r\n    __2_intnl_SystemString:
+    %SystemString, null\r\n    __0_intnl_UnityEngineTransform: %UnityEngineTransform,
+    null\r\n    __1_intnl_UnityEngineTransform: %UnityEngineTransform, null\r\n    __2_intnl_UnityEngineTransform:
+    %UnityEngineTransform, null\r\n    __3_intnl_UnityEngineTransform: %UnityEngineTransform,
+    null\r\n    __4_intnl_UnityEngineTransform: %UnityEngineTransform, null\r\n    __5_intnl_UnityEngineTransform:
     %UnityEngineTransform, null\r\n    __0_intnl_oldReturnLoc_UInt32: %SystemUInt32,
     null\r\n    __0_intnl_returnTarget_UInt32: %SystemUInt32, null\r\n    __1_intnl_oldReturnLoc_UInt32:
     %SystemUInt32, null\r\n    __0_intnl_UnityEngineVector3: %UnityEngineVector3,
@@ -84,37 +81,36 @@ MonoBehaviour:
     %UnityEngineVector3, null\r\n    __3_intnl_UnityEngineVector3: %UnityEngineVector3,
     null\r\n    __4_intnl_UnityEngineVector3: %UnityEngineVector3, null\r\n    __5_intnl_UnityEngineVector3:
     %UnityEngineVector3, null\r\n    __6_intnl_UnityEngineVector3: %UnityEngineVector3,
-    null\r\n    __7_intnl_UnityEngineVector3: %UnityEngineVector3, null\r\n\r\n.data_end\r\n\r\n
-    \       \r\n         # using UdonSharp;\r\n        \r\n         # using UnityEngine;\r\n
-    \       \r\n         # using UnityEngine.UI;\r\n        \r\n         # using VRC.SDK3.Components;\r\n
-    \       \r\n         # using VRC.SDKBase;\r\n        \r\n         # using VRC.Udon;\r\n
-    \       \r\n         # public class Control : UdonSharpBehaviour\r\n.code_start\r\n
-    \       \r\n         # public GameObject target;\r\n        \r\n         # public
-    Text count;\r\n        \r\n         # public Text height;\r\n        \r\n         #
-    public Text weight;\r\n        \r\n         # public float defaultHeight;\r\n
-    \       \r\n         # public float defaultWeight;\r\n        \r\n         # int
-    _count;\r\n        \r\n         # int _isMode;\r\n        \r\n         # float
-    _height;\r\n        \r\n         # float _weight;\r\n        \r\n         # void
-    Start()\r\n    .export _start\r\n        \r\n    _start:\r\n        \r\n        PUSH,
-    __0_const_intnl_SystemUInt32\r\n        PUSH, __0_intnl_returnTarget_UInt32\r\n
-    \       COPY\r\n        \r\n         # {\r\n        \r\n         # _count = 1;
-    // \u500D\u7387\r\n        PUSH, __0_const_intnl_SystemInt32\r\n        PUSH,
-    _count\r\n        COPY\r\n        \r\n         # _isMode = 0; // 0 => \u5DE8\u5927\u5316\u30E2\u30FC\u30C9,
-    1 => \u7E2E\u5C0F\u30E2\u30FC\u30C9\r\n        PUSH, __1_const_intnl_SystemInt32\r\n
-    \       PUSH, _isMode\r\n        COPY\r\n        \r\n         # _height = defaultHeight;\r\n
-    \       PUSH, defaultHeight\r\n        PUSH, _height\r\n        COPY\r\n        \r\n
-    \        # _weight = defaultWeight;\r\n        PUSH, defaultWeight\r\n        PUSH,
-    _weight\r\n        COPY\r\n        JUMP_INDIRECT, __0_intnl_returnTarget_UInt32\r\n
-    \       \r\n        \r\n         # void Update() {\r\n    .export _update\r\n
-    \       \r\n    _update:\r\n        \r\n        PUSH, __0_const_intnl_SystemUInt32\r\n
+    null\r\n\r\n.data_end\r\n\r\n        \r\n         # using UdonSharp;\r\n        \r\n
+    \        # using UnityEngine;\r\n        \r\n         # using UnityEngine.UI;\r\n
+    \       \r\n         # using VRC.SDK3.Components;\r\n        \r\n         # using
+    VRC.SDKBase;\r\n        \r\n         # using VRC.Udon;\r\n        \r\n         #
+    public class Control : UdonSharpBehaviour\r\n.code_start\r\n        \r\n         #
+    public GameObject target;\r\n        \r\n         # public Text count;\r\n        \r\n
+    \        # public Text height;\r\n        \r\n         # public Text weight;\r\n
+    \       \r\n         # public float defaultHeight;\r\n        \r\n         # public
+    float defaultWeight;\r\n        \r\n         # int _count;\r\n        \r\n         #
+    int _isMode;\r\n        \r\n         # float _height;\r\n        \r\n         #
+    float _weight;\r\n        \r\n         # void Start()\r\n    .export _start\r\n
+    \       \r\n    _start:\r\n        \r\n        PUSH, __0_const_intnl_SystemUInt32\r\n
     \       PUSH, __0_intnl_returnTarget_UInt32\r\n        COPY\r\n        \r\n         #
-    CalcScale();\r\n        PUSH, __0_intnl_returnTarget_UInt32\r\n        PUSH, __0_intnl_oldReturnLoc_UInt32\r\n
-    \       COPY\r\n        PUSH, __0_const_intnl_exitJumpLoc_UInt32\r\n        PUSH,
-    __0_intnl_returnTarget_UInt32\r\n        COPY\r\n        JUMP, 0x00000618\r\n
+    {\r\n        \r\n         # _count = 1; // \u500D\u7387\r\n        PUSH, __0_const_intnl_SystemInt32\r\n
+    \       PUSH, _count\r\n        COPY\r\n        \r\n         # _isMode = 0; //
+    0 => \u5DE8\u5927\u5316\u30E2\u30FC\u30C9, 1 => \u7E2E\u5C0F\u30E2\u30FC\u30C9\r\n
+    \       PUSH, __1_const_intnl_SystemInt32\r\n        PUSH, _isMode\r\n        COPY\r\n
+    \       \r\n         # _height = defaultHeight;\r\n        PUSH, defaultHeight\r\n
+    \       PUSH, _height\r\n        COPY\r\n        \r\n         # _weight = defaultWeight;\r\n
+    \       PUSH, defaultWeight\r\n        PUSH, _weight\r\n        COPY\r\n        JUMP_INDIRECT,
+    __0_intnl_returnTarget_UInt32\r\n        \r\n        \r\n         # void Update()
+    {\r\n    .export _update\r\n        \r\n    _update:\r\n        \r\n        PUSH,
+    __0_const_intnl_SystemUInt32\r\n        PUSH, __0_intnl_returnTarget_UInt32\r\n
+    \       COPY\r\n        \r\n         # CalcScale();\r\n        PUSH, __0_intnl_returnTarget_UInt32\r\n
+    \       PUSH, __0_intnl_oldReturnLoc_UInt32\r\n        COPY\r\n        PUSH, __0_const_intnl_exitJumpLoc_UInt32\r\n
+    \       PUSH, __0_intnl_returnTarget_UInt32\r\n        COPY\r\n        JUMP, 0x00000618\r\n
     \       PUSH, __0_intnl_oldReturnLoc_UInt32\r\n        PUSH, __0_intnl_returnTarget_UInt32\r\n
     \       COPY\r\n        \r\n         # ViewText();\r\n        PUSH, __0_intnl_returnTarget_UInt32\r\n
     \       PUSH, __1_intnl_oldReturnLoc_UInt32\r\n        COPY\r\n        PUSH, __1_const_intnl_exitJumpLoc_UInt32\r\n
-    \       PUSH, __0_intnl_returnTarget_UInt32\r\n        COPY\r\n        JUMP, 0x00000B80\r\n
+    \       PUSH, __0_intnl_returnTarget_UInt32\r\n        COPY\r\n        JUMP, 0x00000AE0\r\n
     \       PUSH, __1_intnl_oldReturnLoc_UInt32\r\n        PUSH, __0_intnl_returnTarget_UInt32\r\n
     \       COPY\r\n        JUMP_INDIRECT, __0_intnl_returnTarget_UInt32\r\n        \r\n
     \       \r\n         # public void Reset(){\r\n    .export Reset\r\n        \r\n
@@ -222,51 +218,70 @@ MonoBehaviour:
     \       PUSH, __27_intnl_SystemSingle\r\n        PUSH, __29_intnl_SystemSingle\r\n
     \       EXTERN, \"SystemSingle.__op_Subtraction__SystemSingle_SystemSingle__SystemSingle\"\r\n
     \       PUSH, __29_intnl_SystemSingle\r\n        PUSH, __0_diff_Single\r\n        COPY\r\n
-    \       \r\n         # int scale;\r\n        \r\n         # scale = (int)Mathf.Ceil(target.transform.localScale.x);\r\n
-    \       PUSH, target\r\n        PUSH, __2_intnl_UnityEngineTransform\r\n        EXTERN,
-    \"UnityEngineGameObject.__get_transform__UnityEngineTransform\"\r\n        PUSH,
-    __2_intnl_UnityEngineTransform\r\n        PUSH, __2_intnl_UnityEngineVector3\r\n
-    \       EXTERN, \"UnityEngineTransform.__get_localScale__UnityEngineVector3\"\r\n
-    \       PUSH, __2_intnl_UnityEngineVector3\r\n        PUSH, __30_intnl_SystemSingle\r\n
-    \       EXTERN, \"UnityEngineVector3.__get_x__SystemSingle\"\r\n        PUSH,
-    __30_intnl_SystemSingle\r\n        PUSH, __31_intnl_SystemSingle\r\n        EXTERN,
-    \"UnityEngineMathf.__Ceil__SystemSingle__SystemSingle\"\r\n        PUSH, __31_intnl_SystemSingle\r\n
-    \       PUSH, __7_intnl_SystemInt32\r\n        EXTERN, \"SystemConvert.__ToInt32__SystemSingle__SystemInt32\"\r\n
-    \       PUSH, __7_intnl_SystemInt32\r\n        PUSH, __6_intnl_SystemInt32\r\n
-    \       COPY\r\n        PUSH, __6_intnl_SystemInt32\r\n        PUSH, __0_scale_Int32\r\n
-    \       COPY\r\n        \r\n         # float speed;\r\n        \r\n         #
-    Vector3 v3;\r\n        \r\n         # speed = diff / 100;\r\n        PUSH, __0_diff_Single\r\n
-    \       PUSH, __32_intnl_SystemSingle\r\n        COPY\r\n        PUSH, __3_const_intnl_SystemInt32\r\n
-    \       PUSH, __33_intnl_SystemSingle\r\n        EXTERN, \"SystemConvert.__ToSingle__SystemInt32__SystemSingle\"\r\n
-    \       PUSH, __32_intnl_SystemSingle\r\n        PUSH, __33_intnl_SystemSingle\r\n
-    \       PUSH, __34_intnl_SystemSingle\r\n        EXTERN, \"SystemSingle.__op_Division__SystemSingle_SystemSingle__SystemSingle\"\r\n
-    \       PUSH, __34_intnl_SystemSingle\r\n        PUSH, __0_speed_Single\r\n        COPY\r\n
+    \       \r\n         # float speed;\r\n        \r\n         # Vector3 v3;\r\n
+    \       \r\n         # speed = diff / 100;\r\n        PUSH, __0_diff_Single\r\n
+    \       PUSH, __30_intnl_SystemSingle\r\n        COPY\r\n        PUSH, __3_const_intnl_SystemInt32\r\n
+    \       PUSH, __31_intnl_SystemSingle\r\n        EXTERN, \"SystemConvert.__ToSingle__SystemInt32__SystemSingle\"\r\n
+    \       PUSH, __30_intnl_SystemSingle\r\n        PUSH, __31_intnl_SystemSingle\r\n
+    \       PUSH, __32_intnl_SystemSingle\r\n        EXTERN, \"SystemSingle.__op_Division__SystemSingle_SystemSingle__SystemSingle\"\r\n
+    \       PUSH, __32_intnl_SystemSingle\r\n        PUSH, __0_speed_Single\r\n        COPY\r\n
     \       \r\n         # v3 = new Vector3(speed, speed, speed);\r\n        PUSH,
     __0_speed_Single\r\n        PUSH, __0_speed_Single\r\n        PUSH, __0_speed_Single\r\n
-    \       PUSH, __3_intnl_UnityEngineVector3\r\n        EXTERN, \"UnityEngineVector3.__ctor__SystemSingle_SystemSingle_SystemSingle__UnityEngineVector3\"\r\n
-    \       PUSH, __3_intnl_UnityEngineVector3\r\n        PUSH, __0_v3_Vector3\r\n
+    \       PUSH, __2_intnl_UnityEngineVector3\r\n        EXTERN, \"UnityEngineVector3.__ctor__SystemSingle_SystemSingle_SystemSingle__UnityEngineVector3\"\r\n
+    \       PUSH, __2_intnl_UnityEngineVector3\r\n        PUSH, __0_v3_Vector3\r\n
     \       COPY\r\n        \r\n         # if( (target.transform.localScale.x <= _count)
-    && (_isMode == 0) ){\r\n        PUSH, target\r\n        PUSH, __3_intnl_UnityEngineTransform\r\n
+    && (_isMode == 0) ){\r\n        PUSH, target\r\n        PUSH, __2_intnl_UnityEngineTransform\r\n
     \       EXTERN, \"UnityEngineGameObject.__get_transform__UnityEngineTransform\"\r\n
-    \       PUSH, __3_intnl_UnityEngineTransform\r\n        PUSH, __4_intnl_UnityEngineVector3\r\n
+    \       PUSH, __2_intnl_UnityEngineTransform\r\n        PUSH, __3_intnl_UnityEngineVector3\r\n
     \       EXTERN, \"UnityEngineTransform.__get_localScale__UnityEngineVector3\"\r\n
-    \       PUSH, __4_intnl_UnityEngineVector3\r\n        PUSH, __36_intnl_SystemSingle\r\n
+    \       PUSH, __3_intnl_UnityEngineVector3\r\n        PUSH, __34_intnl_SystemSingle\r\n
     \       EXTERN, \"UnityEngineVector3.__get_x__SystemSingle\"\r\n        PUSH,
-    __36_intnl_SystemSingle\r\n        PUSH, __35_intnl_SystemSingle\r\n        COPY\r\n
-    \       PUSH, _count\r\n        PUSH, __37_intnl_SystemSingle\r\n        EXTERN,
-    \"SystemConvert.__ToSingle__SystemInt32__SystemSingle\"\r\n        PUSH, __35_intnl_SystemSingle\r\n
-    \       PUSH, __37_intnl_SystemSingle\r\n        PUSH, __2_intnl_SystemBoolean\r\n
+    __34_intnl_SystemSingle\r\n        PUSH, __33_intnl_SystemSingle\r\n        COPY\r\n
+    \       PUSH, _count\r\n        PUSH, __35_intnl_SystemSingle\r\n        EXTERN,
+    \"SystemConvert.__ToSingle__SystemInt32__SystemSingle\"\r\n        PUSH, __33_intnl_SystemSingle\r\n
+    \       PUSH, __35_intnl_SystemSingle\r\n        PUSH, __2_intnl_SystemBoolean\r\n
     \       EXTERN, \"SystemSingle.__op_LessThanOrEqual__SystemSingle_SystemSingle__SystemBoolean\"\r\n
     \       PUSH, __2_intnl_SystemBoolean\r\n        PUSH, __1_intnl_SystemBoolean\r\n
     \       COPY\r\n        PUSH, __1_intnl_SystemBoolean\r\n        JUMP_IF_FALSE,
-    0x0000091C\r\n        PUSH, _isMode\r\n        PUSH, __8_intnl_SystemInt32\r\n
-    \       COPY\r\n        PUSH, __8_intnl_SystemInt32\r\n        PUSH, __1_const_intnl_SystemInt32\r\n
+    0x0000087C\r\n        PUSH, _isMode\r\n        PUSH, __6_intnl_SystemInt32\r\n
+    \       COPY\r\n        PUSH, __6_intnl_SystemInt32\r\n        PUSH, __1_const_intnl_SystemInt32\r\n
     \       PUSH, __3_intnl_SystemBoolean\r\n        EXTERN, \"SystemInt32.__op_Equality__SystemInt32_SystemInt32__SystemBoolean\"\r\n
     \       PUSH, __1_intnl_SystemBoolean\r\n        PUSH, __3_intnl_SystemBoolean\r\n
     \       PUSH, __4_intnl_SystemBoolean\r\n        EXTERN, \"SystemBoolean.__op_ConditionalAnd__SystemBoolean_SystemBoolean__SystemBoolean\"\r\n
     \       PUSH, __4_intnl_SystemBoolean\r\n        PUSH, __1_intnl_SystemBoolean\r\n
     \       COPY\r\n        PUSH, __1_intnl_SystemBoolean\r\n        JUMP_IF_FALSE,
-    0x000009B4\r\n        \r\n         # target.transform.localScale += v3;\r\n        PUSH,
+    0x00000914\r\n        \r\n         # target.transform.localScale += v3;\r\n        PUSH,
+    target\r\n        PUSH, __3_intnl_UnityEngineTransform\r\n        EXTERN, \"UnityEngineGameObject.__get_transform__UnityEngineTransform\"\r\n
+    \       PUSH, __3_intnl_UnityEngineTransform\r\n        PUSH, __4_intnl_UnityEngineVector3\r\n
+    \       EXTERN, \"UnityEngineTransform.__get_localScale__UnityEngineVector3\"\r\n
+    \       PUSH, __4_intnl_UnityEngineVector3\r\n        PUSH, __0_v3_Vector3\r\n
+    \       PUSH, __5_intnl_UnityEngineVector3\r\n        EXTERN, \"UnityEngineVector3.__op_Addition__UnityEngineVector3_UnityEngineVector3__UnityEngineVector3\"\r\n
+    \       PUSH, target\r\n        PUSH, __4_intnl_UnityEngineTransform\r\n        EXTERN,
+    \"UnityEngineGameObject.__get_transform__UnityEngineTransform\"\r\n        PUSH,
+    __4_intnl_UnityEngineTransform\r\n        PUSH, __5_intnl_UnityEngineVector3\r\n
+    \       EXTERN, \"UnityEngineTransform.__set_localScale__UnityEngineVector3__SystemVoid\"\r\n
+    \       JUMP, 0x00000AC4\r\n        \r\n         # else if( (target.transform.localScale.x
+    >= _count) && (_isMode == 1) ) {\r\n        PUSH, target\r\n        PUSH, __3_intnl_UnityEngineTransform\r\n
+    \       EXTERN, \"UnityEngineGameObject.__get_transform__UnityEngineTransform\"\r\n
+    \       PUSH, __3_intnl_UnityEngineTransform\r\n        PUSH, __4_intnl_UnityEngineVector3\r\n
+    \       EXTERN, \"UnityEngineTransform.__get_localScale__UnityEngineVector3\"\r\n
+    \       PUSH, __4_intnl_UnityEngineVector3\r\n        PUSH, __37_intnl_SystemSingle\r\n
+    \       EXTERN, \"UnityEngineVector3.__get_x__SystemSingle\"\r\n        PUSH,
+    __37_intnl_SystemSingle\r\n        PUSH, __36_intnl_SystemSingle\r\n        COPY\r\n
+    \       PUSH, _count\r\n        PUSH, __38_intnl_SystemSingle\r\n        EXTERN,
+    \"SystemConvert.__ToSingle__SystemInt32__SystemSingle\"\r\n        PUSH, __36_intnl_SystemSingle\r\n
+    \       PUSH, __38_intnl_SystemSingle\r\n        PUSH, __6_intnl_SystemBoolean\r\n
+    \       EXTERN, \"SystemSingle.__op_GreaterThanOrEqual__SystemSingle_SystemSingle__SystemBoolean\"\r\n
+    \       PUSH, __6_intnl_SystemBoolean\r\n        PUSH, __5_intnl_SystemBoolean\r\n
+    \       COPY\r\n        PUSH, __5_intnl_SystemBoolean\r\n        JUMP_IF_FALSE,
+    0x00000A34\r\n        PUSH, _isMode\r\n        PUSH, __7_intnl_SystemInt32\r\n
+    \       COPY\r\n        PUSH, __7_intnl_SystemInt32\r\n        PUSH, __0_const_intnl_SystemInt32\r\n
+    \       PUSH, __7_intnl_SystemBoolean\r\n        EXTERN, \"SystemInt32.__op_Equality__SystemInt32_SystemInt32__SystemBoolean\"\r\n
+    \       PUSH, __5_intnl_SystemBoolean\r\n        PUSH, __7_intnl_SystemBoolean\r\n
+    \       PUSH, __8_intnl_SystemBoolean\r\n        EXTERN, \"SystemBoolean.__op_ConditionalAnd__SystemBoolean_SystemBoolean__SystemBoolean\"\r\n
+    \       PUSH, __8_intnl_SystemBoolean\r\n        PUSH, __5_intnl_SystemBoolean\r\n
+    \       COPY\r\n        PUSH, __5_intnl_SystemBoolean\r\n        JUMP_IF_FALSE,
+    0x00000AC4\r\n        \r\n         # target.transform.localScale += v3;\r\n        PUSH,
     target\r\n        PUSH, __4_intnl_UnityEngineTransform\r\n        EXTERN, \"UnityEngineGameObject.__get_transform__UnityEngineTransform\"\r\n
     \       PUSH, __4_intnl_UnityEngineTransform\r\n        PUSH, __5_intnl_UnityEngineVector3\r\n
     \       EXTERN, \"UnityEngineTransform.__get_localScale__UnityEngineVector3\"\r\n
@@ -276,83 +291,52 @@ MonoBehaviour:
     \"UnityEngineGameObject.__get_transform__UnityEngineTransform\"\r\n        PUSH,
     __5_intnl_UnityEngineTransform\r\n        PUSH, __6_intnl_UnityEngineVector3\r\n
     \       EXTERN, \"UnityEngineTransform.__set_localScale__UnityEngineVector3__SystemVoid\"\r\n
-    \       JUMP, 0x00000B64\r\n        \r\n         # else if( (target.transform.localScale.x
-    >= _count) && (_isMode == 1) ) {\r\n        PUSH, target\r\n        PUSH, __4_intnl_UnityEngineTransform\r\n
-    \       EXTERN, \"UnityEngineGameObject.__get_transform__UnityEngineTransform\"\r\n
-    \       PUSH, __4_intnl_UnityEngineTransform\r\n        PUSH, __5_intnl_UnityEngineVector3\r\n
-    \       EXTERN, \"UnityEngineTransform.__get_localScale__UnityEngineVector3\"\r\n
-    \       PUSH, __5_intnl_UnityEngineVector3\r\n        PUSH, __39_intnl_SystemSingle\r\n
-    \       EXTERN, \"UnityEngineVector3.__get_x__SystemSingle\"\r\n        PUSH,
-    __39_intnl_SystemSingle\r\n        PUSH, __38_intnl_SystemSingle\r\n        COPY\r\n
-    \       PUSH, _count\r\n        PUSH, __40_intnl_SystemSingle\r\n        EXTERN,
-    \"SystemConvert.__ToSingle__SystemInt32__SystemSingle\"\r\n        PUSH, __38_intnl_SystemSingle\r\n
-    \       PUSH, __40_intnl_SystemSingle\r\n        PUSH, __6_intnl_SystemBoolean\r\n
-    \       EXTERN, \"SystemSingle.__op_GreaterThanOrEqual__SystemSingle_SystemSingle__SystemBoolean\"\r\n
-    \       PUSH, __6_intnl_SystemBoolean\r\n        PUSH, __5_intnl_SystemBoolean\r\n
-    \       COPY\r\n        PUSH, __5_intnl_SystemBoolean\r\n        JUMP_IF_FALSE,
-    0x00000AD4\r\n        PUSH, _isMode\r\n        PUSH, __9_intnl_SystemInt32\r\n
-    \       COPY\r\n        PUSH, __9_intnl_SystemInt32\r\n        PUSH, __0_const_intnl_SystemInt32\r\n
-    \       PUSH, __7_intnl_SystemBoolean\r\n        EXTERN, \"SystemInt32.__op_Equality__SystemInt32_SystemInt32__SystemBoolean\"\r\n
-    \       PUSH, __5_intnl_SystemBoolean\r\n        PUSH, __7_intnl_SystemBoolean\r\n
-    \       PUSH, __8_intnl_SystemBoolean\r\n        EXTERN, \"SystemBoolean.__op_ConditionalAnd__SystemBoolean_SystemBoolean__SystemBoolean\"\r\n
-    \       PUSH, __8_intnl_SystemBoolean\r\n        PUSH, __5_intnl_SystemBoolean\r\n
-    \       COPY\r\n        PUSH, __5_intnl_SystemBoolean\r\n        JUMP_IF_FALSE,
-    0x00000B64\r\n        \r\n         # target.transform.localScale -= v3;\r\n        PUSH,
-    target\r\n        PUSH, __5_intnl_UnityEngineTransform\r\n        EXTERN, \"UnityEngineGameObject.__get_transform__UnityEngineTransform\"\r\n
-    \       PUSH, __5_intnl_UnityEngineTransform\r\n        PUSH, __6_intnl_UnityEngineVector3\r\n
-    \       EXTERN, \"UnityEngineTransform.__get_localScale__UnityEngineVector3\"\r\n
-    \       PUSH, __6_intnl_UnityEngineVector3\r\n        PUSH, __0_v3_Vector3\r\n
-    \       PUSH, __7_intnl_UnityEngineVector3\r\n        EXTERN, \"UnityEngineVector3.__op_Subtraction__UnityEngineVector3_UnityEngineVector3__UnityEngineVector3\"\r\n
-    \       PUSH, target\r\n        PUSH, __6_intnl_UnityEngineTransform\r\n        EXTERN,
-    \"UnityEngineGameObject.__get_transform__UnityEngineTransform\"\r\n        PUSH,
-    __6_intnl_UnityEngineTransform\r\n        PUSH, __7_intnl_UnityEngineVector3\r\n
-    \       EXTERN, \"UnityEngineTransform.__set_localScale__UnityEngineVector3__SystemVoid\"\r\n
     \       JUMP_INDIRECT, __0_intnl_returnTarget_UInt32\r\n        \r\n        \r\n
     \        # void ViewText(){\r\n    ViewText:\r\n        \r\n        PUSH, __0_const_intnl_SystemUInt32\r\n
     \       PUSH, __0_intnl_returnTarget_UInt32\r\n        COPY\r\n        \r\n         #
-    if(_height >= 100000){\r\n        PUSH, _height\r\n        PUSH, __41_intnl_SystemSingle\r\n
-    \       COPY\r\n        PUSH, __4_const_intnl_SystemInt32\r\n        PUSH, __42_intnl_SystemSingle\r\n
+    if(_height >= 100000){\r\n        PUSH, _height\r\n        PUSH, __39_intnl_SystemSingle\r\n
+    \       COPY\r\n        PUSH, __4_const_intnl_SystemInt32\r\n        PUSH, __40_intnl_SystemSingle\r\n
+    \       EXTERN, \"SystemConvert.__ToSingle__SystemInt32__SystemSingle\"\r\n        PUSH,
+    __39_intnl_SystemSingle\r\n        PUSH, __40_intnl_SystemSingle\r\n        PUSH,
+    __9_intnl_SystemBoolean\r\n        EXTERN, \"SystemSingle.__op_GreaterThanOrEqual__SystemSingle_SystemSingle__SystemBoolean\"\r\n
+    \       PUSH, __9_intnl_SystemBoolean\r\n        JUMP_IF_FALSE, 0x00000C40\r\n
+    \       \r\n         # height.text = (_height / 100 / 1000).ToString() + \"km\";\r\n
+    \       PUSH, _height\r\n        PUSH, __41_intnl_SystemSingle\r\n        COPY\r\n
+    \       PUSH, __3_const_intnl_SystemInt32\r\n        PUSH, __42_intnl_SystemSingle\r\n
     \       EXTERN, \"SystemConvert.__ToSingle__SystemInt32__SystemSingle\"\r\n        PUSH,
     __41_intnl_SystemSingle\r\n        PUSH, __42_intnl_SystemSingle\r\n        PUSH,
-    __9_intnl_SystemBoolean\r\n        EXTERN, \"SystemSingle.__op_GreaterThanOrEqual__SystemSingle_SystemSingle__SystemBoolean\"\r\n
-    \       PUSH, __9_intnl_SystemBoolean\r\n        JUMP_IF_FALSE, 0x00000CE0\r\n
-    \       \r\n         # height.text = (_height / 100 / 1000).ToString() + \"km\";\r\n
-    \       PUSH, _height\r\n        PUSH, __43_intnl_SystemSingle\r\n        COPY\r\n
-    \       PUSH, __3_const_intnl_SystemInt32\r\n        PUSH, __44_intnl_SystemSingle\r\n
+    __43_intnl_SystemSingle\r\n        EXTERN, \"SystemSingle.__op_Division__SystemSingle_SystemSingle__SystemSingle\"\r\n
+    \       PUSH, __43_intnl_SystemSingle\r\n        PUSH, __44_intnl_SystemSingle\r\n
+    \       COPY\r\n        PUSH, __5_const_intnl_SystemInt32\r\n        PUSH, __45_intnl_SystemSingle\r\n
     \       EXTERN, \"SystemConvert.__ToSingle__SystemInt32__SystemSingle\"\r\n        PUSH,
-    __43_intnl_SystemSingle\r\n        PUSH, __44_intnl_SystemSingle\r\n        PUSH,
-    __45_intnl_SystemSingle\r\n        EXTERN, \"SystemSingle.__op_Division__SystemSingle_SystemSingle__SystemSingle\"\r\n
-    \       PUSH, __45_intnl_SystemSingle\r\n        PUSH, __46_intnl_SystemSingle\r\n
-    \       COPY\r\n        PUSH, __5_const_intnl_SystemInt32\r\n        PUSH, __47_intnl_SystemSingle\r\n
-    \       EXTERN, \"SystemConvert.__ToSingle__SystemInt32__SystemSingle\"\r\n        PUSH,
-    __46_intnl_SystemSingle\r\n        PUSH, __47_intnl_SystemSingle\r\n        PUSH,
-    __48_intnl_SystemSingle\r\n        EXTERN, \"SystemSingle.__op_Division__SystemSingle_SystemSingle__SystemSingle\"\r\n
-    \       PUSH, __48_intnl_SystemSingle\r\n        PUSH, __0_intnl_SystemString\r\n
+    __44_intnl_SystemSingle\r\n        PUSH, __45_intnl_SystemSingle\r\n        PUSH,
+    __46_intnl_SystemSingle\r\n        EXTERN, \"SystemSingle.__op_Division__SystemSingle_SystemSingle__SystemSingle\"\r\n
+    \       PUSH, __46_intnl_SystemSingle\r\n        PUSH, __0_intnl_SystemString\r\n
     \       EXTERN, \"SystemSingle.__ToString__SystemString\"\r\n        PUSH, __0_intnl_SystemString\r\n
     \       PUSH, __1_intnl_SystemString\r\n        COPY\r\n        PUSH, __1_intnl_SystemString\r\n
     \       PUSH, __0_const_intnl_SystemString\r\n        PUSH, __2_intnl_SystemString\r\n
     \       EXTERN, \"SystemString.__op_Addition__SystemString_SystemString__SystemString\"\r\n
     \       PUSH, height\r\n        PUSH, __2_intnl_SystemString\r\n        EXTERN,
-    \"UnityEngineUIText.__set_text__SystemString__SystemVoid\"\r\n        JUMP, 0x00000E58\r\n
+    \"UnityEngineUIText.__set_text__SystemString__SystemVoid\"\r\n        JUMP, 0x00000DB8\r\n
     \       \r\n         # else if(_height >= 1000){\r\n        PUSH, _height\r\n
-    \       PUSH, __43_intnl_SystemSingle\r\n        COPY\r\n        PUSH, __5_const_intnl_SystemInt32\r\n
-    \       PUSH, __44_intnl_SystemSingle\r\n        EXTERN, \"SystemConvert.__ToSingle__SystemInt32__SystemSingle\"\r\n
-    \       PUSH, __43_intnl_SystemSingle\r\n        PUSH, __44_intnl_SystemSingle\r\n
+    \       PUSH, __41_intnl_SystemSingle\r\n        COPY\r\n        PUSH, __5_const_intnl_SystemInt32\r\n
+    \       PUSH, __42_intnl_SystemSingle\r\n        EXTERN, \"SystemConvert.__ToSingle__SystemInt32__SystemSingle\"\r\n
+    \       PUSH, __41_intnl_SystemSingle\r\n        PUSH, __42_intnl_SystemSingle\r\n
     \       PUSH, __10_intnl_SystemBoolean\r\n        EXTERN, \"SystemSingle.__op_GreaterThanOrEqual__SystemSingle_SystemSingle__SystemBoolean\"\r\n
-    \       PUSH, __10_intnl_SystemBoolean\r\n        JUMP_IF_FALSE, 0x00000DF4\r\n
+    \       PUSH, __10_intnl_SystemBoolean\r\n        JUMP_IF_FALSE, 0x00000D54\r\n
     \       \r\n         # height.text = (_height / 100).ToString() + \"m\";\r\n        PUSH,
-    _height\r\n        PUSH, __45_intnl_SystemSingle\r\n        COPY\r\n        PUSH,
-    __3_const_intnl_SystemInt32\r\n        PUSH, __46_intnl_SystemSingle\r\n        EXTERN,
-    \"SystemConvert.__ToSingle__SystemInt32__SystemSingle\"\r\n        PUSH, __45_intnl_SystemSingle\r\n
-    \       PUSH, __46_intnl_SystemSingle\r\n        PUSH, __47_intnl_SystemSingle\r\n
+    _height\r\n        PUSH, __43_intnl_SystemSingle\r\n        COPY\r\n        PUSH,
+    __3_const_intnl_SystemInt32\r\n        PUSH, __44_intnl_SystemSingle\r\n        EXTERN,
+    \"SystemConvert.__ToSingle__SystemInt32__SystemSingle\"\r\n        PUSH, __43_intnl_SystemSingle\r\n
+    \       PUSH, __44_intnl_SystemSingle\r\n        PUSH, __45_intnl_SystemSingle\r\n
     \       EXTERN, \"SystemSingle.__op_Division__SystemSingle_SystemSingle__SystemSingle\"\r\n
-    \       PUSH, __47_intnl_SystemSingle\r\n        PUSH, __0_intnl_SystemString\r\n
+    \       PUSH, __45_intnl_SystemSingle\r\n        PUSH, __0_intnl_SystemString\r\n
     \       EXTERN, \"SystemSingle.__ToString__SystemString\"\r\n        PUSH, __0_intnl_SystemString\r\n
     \       PUSH, __1_intnl_SystemString\r\n        COPY\r\n        PUSH, __1_intnl_SystemString\r\n
     \       PUSH, __1_const_intnl_SystemString\r\n        PUSH, __2_intnl_SystemString\r\n
     \       EXTERN, \"SystemString.__op_Addition__SystemString_SystemString__SystemString\"\r\n
     \       PUSH, height\r\n        PUSH, __2_intnl_SystemString\r\n        EXTERN,
-    \"UnityEngineUIText.__set_text__SystemString__SystemVoid\"\r\n        JUMP, 0x00000E58\r\n
+    \"UnityEngineUIText.__set_text__SystemString__SystemVoid\"\r\n        JUMP, 0x00000DB8\r\n
     \       \r\n         # else {\r\n        \r\n         # height.text = _height.ToString()
     + \"cm\";\r\n        PUSH, _height\r\n        PUSH, __0_intnl_SystemString\r\n
     \       EXTERN, \"SystemSingle.__ToString__SystemString\"\r\n        PUSH, __0_intnl_SystemString\r\n
@@ -361,25 +345,25 @@ MonoBehaviour:
     \       EXTERN, \"SystemString.__op_Addition__SystemString_SystemString__SystemString\"\r\n
     \       PUSH, height\r\n        PUSH, __2_intnl_SystemString\r\n        EXTERN,
     \"UnityEngineUIText.__set_text__SystemString__SystemVoid\"\r\n        \r\n         #
-    if(_weight >= 1000){\r\n        PUSH, _weight\r\n        PUSH, __45_intnl_SystemSingle\r\n
-    \       COPY\r\n        PUSH, __5_const_intnl_SystemInt32\r\n        PUSH, __46_intnl_SystemSingle\r\n
+    if(_weight >= 1000){\r\n        PUSH, _weight\r\n        PUSH, __43_intnl_SystemSingle\r\n
+    \       COPY\r\n        PUSH, __5_const_intnl_SystemInt32\r\n        PUSH, __44_intnl_SystemSingle\r\n
+    \       EXTERN, \"SystemConvert.__ToSingle__SystemInt32__SystemSingle\"\r\n        PUSH,
+    __43_intnl_SystemSingle\r\n        PUSH, __44_intnl_SystemSingle\r\n        PUSH,
+    __11_intnl_SystemBoolean\r\n        EXTERN, \"SystemSingle.__op_GreaterThanOrEqual__SystemSingle_SystemSingle__SystemBoolean\"\r\n
+    \       PUSH, __11_intnl_SystemBoolean\r\n        JUMP_IF_FALSE, 0x00000ECC\r\n
+    \       \r\n         # weight.text = (_weight / 1000).ToString() + \"t\";\r\n
+    \       PUSH, _weight\r\n        PUSH, __45_intnl_SystemSingle\r\n        COPY\r\n
+    \       PUSH, __5_const_intnl_SystemInt32\r\n        PUSH, __46_intnl_SystemSingle\r\n
     \       EXTERN, \"SystemConvert.__ToSingle__SystemInt32__SystemSingle\"\r\n        PUSH,
     __45_intnl_SystemSingle\r\n        PUSH, __46_intnl_SystemSingle\r\n        PUSH,
-    __11_intnl_SystemBoolean\r\n        EXTERN, \"SystemSingle.__op_GreaterThanOrEqual__SystemSingle_SystemSingle__SystemBoolean\"\r\n
-    \       PUSH, __11_intnl_SystemBoolean\r\n        JUMP_IF_FALSE, 0x00000F6C\r\n
-    \       \r\n         # weight.text = (_weight / 1000).ToString() + \"t\";\r\n
-    \       PUSH, _weight\r\n        PUSH, __47_intnl_SystemSingle\r\n        COPY\r\n
-    \       PUSH, __5_const_intnl_SystemInt32\r\n        PUSH, __48_intnl_SystemSingle\r\n
-    \       EXTERN, \"SystemConvert.__ToSingle__SystemInt32__SystemSingle\"\r\n        PUSH,
-    __47_intnl_SystemSingle\r\n        PUSH, __48_intnl_SystemSingle\r\n        PUSH,
-    __49_intnl_SystemSingle\r\n        EXTERN, \"SystemSingle.__op_Division__SystemSingle_SystemSingle__SystemSingle\"\r\n
-    \       PUSH, __49_intnl_SystemSingle\r\n        PUSH, __0_intnl_SystemString\r\n
+    __47_intnl_SystemSingle\r\n        EXTERN, \"SystemSingle.__op_Division__SystemSingle_SystemSingle__SystemSingle\"\r\n
+    \       PUSH, __47_intnl_SystemSingle\r\n        PUSH, __0_intnl_SystemString\r\n
     \       EXTERN, \"SystemSingle.__ToString__SystemString\"\r\n        PUSH, __0_intnl_SystemString\r\n
     \       PUSH, __1_intnl_SystemString\r\n        COPY\r\n        PUSH, __1_intnl_SystemString\r\n
     \       PUSH, __3_const_intnl_SystemString\r\n        PUSH, __2_intnl_SystemString\r\n
     \       EXTERN, \"SystemString.__op_Addition__SystemString_SystemString__SystemString\"\r\n
     \       PUSH, weight\r\n        PUSH, __2_intnl_SystemString\r\n        EXTERN,
-    \"UnityEngineUIText.__set_text__SystemString__SystemVoid\"\r\n        JUMP, 0x00000FD0\r\n
+    \"UnityEngineUIText.__set_text__SystemString__SystemVoid\"\r\n        JUMP, 0x00000F30\r\n
     \       \r\n         # } else {\r\n        \r\n         # weight.text = _weight.ToString()
     + \"kg\";\r\n        PUSH, _weight\r\n        PUSH, __0_intnl_SystemString\r\n
     \       EXTERN, \"SystemSingle.__ToString__SystemString\"\r\n        PUSH, __0_intnl_SystemString\r\n
@@ -1588,1127 +1572,1024 @@ MonoBehaviour:
     - startInstruction: 1604
       endInstruction: 1727
       startSourceChar: 1674
-      endSourceChar: 1715
+      endSourceChar: 1862
       line: 76
       lineChar: 52
-      spanCodeSection: "x;\r\n\r\n        // scale \u3092\u5207\u308A\u4E0A\u3052\u305F\u6574\u6570\r\n
-        \       "
-    - startInstruction: 1728
-      endInstruction: 1727
-      startSourceChar: 1715
-      endSourceChar: 1715
-      line: 79
-      lineChar: 8
-      spanCodeSection: 
-    - startInstruction: 1728
-      endInstruction: 1727
-      startSourceChar: 1715
-      endSourceChar: 1715
-      line: 79
-      lineChar: 8
-      spanCodeSection: 
-    - startInstruction: 1728
-      endInstruction: 1727
-      startSourceChar: 1715
-      endSourceChar: 1715
-      line: 79
-      lineChar: 8
-      spanCodeSection: 
-    - startInstruction: 1728
-      endInstruction: 1727
-      startSourceChar: 1715
-      endSourceChar: 1735
-      line: 79
-      lineChar: 8
-      spanCodeSection: "int scale;\r\n        "
-    - startInstruction: 1728
-      endInstruction: 1727
-      startSourceChar: 1735
-      endSourceChar: 1735
-      line: 80
-      lineChar: 8
-      spanCodeSection: 
-    - startInstruction: 1728
-      endInstruction: 1727
-      startSourceChar: 1735
-      endSourceChar: 1743
-      line: 80
-      lineChar: 8
-      spanCodeSection: 'scale = '
-    - startInstruction: 1728
-      endInstruction: 1727
-      startSourceChar: 1743
-      endSourceChar: 1748
-      line: 80
-      lineChar: 16
-      spanCodeSection: (int)
-    - startInstruction: 1728
-      endInstruction: 1727
-      startSourceChar: 1748
-      endSourceChar: 1759
-      line: 80
-      lineChar: 21
-      spanCodeSection: Mathf.Ceil(
-    - startInstruction: 1728
-      endInstruction: 1727
-      startSourceChar: 1759
-      endSourceChar: 1759
-      line: 80
-      lineChar: 32
-      spanCodeSection: 
-    - startInstruction: 1728
-      endInstruction: 1727
-      startSourceChar: 1759
-      endSourceChar: 1759
-      line: 80
-      lineChar: 32
-      spanCodeSection: 
-    - startInstruction: 1728
-      endInstruction: 1727
-      startSourceChar: 1759
-      endSourceChar: 1759
-      line: 80
-      lineChar: 32
-      spanCodeSection: 
-    - startInstruction: 1728
-      endInstruction: 1727
-      startSourceChar: 1759
-      endSourceChar: 1766
-      line: 80
-      lineChar: 32
-      spanCodeSection: target.
-    - startInstruction: 1728
-      endInstruction: 1727
-      startSourceChar: 1766
-      endSourceChar: 1776
-      line: 80
-      lineChar: 39
-      spanCodeSection: transform.
-    - startInstruction: 1728
-      endInstruction: 1751
-      startSourceChar: 1776
-      endSourceChar: 1787
-      line: 80
-      lineChar: 49
-      spanCodeSection: localScale.
-    - startInstruction: 1752
-      endInstruction: 1887
-      startSourceChar: 1787
-      endSourceChar: 1856
-      line: 80
-      lineChar: 60
-      spanCodeSection: "x);\r\n\r\n        // 1\u30D5\u30EC\u30FC\u30E0\u3054\u3068\u306B\u8DB3\u3057\u3066\u3044\u304F\u6570\u5024\r\n
+      spanCodeSection: "x;\r\n\r\n//        // scale \u3092\u5207\u308A\u4E0A\u3052\u305F\u6574\u6570\r\n//
+        \       int scale;\r\n//        scale = (int)Mathf.Ceil(target.transform.localScale.x);\r\n\r\n
+        \       // 1\u30D5\u30EC\u30FC\u30E0\u3054\u3068\u306B\u8DB3\u3057\u3066\u3044\u304F\u6570\u5024\r\n
         \       // \u5DEE\u304C\u3042\u308B\u307B\u3069\u30B9\u30D4\u30FC\u30C9\u30A2\u30C3\u30D7\r\n
         \       "
-    - startInstruction: 1888
-      endInstruction: 1887
-      startSourceChar: 1856
-      endSourceChar: 1856
+    - startInstruction: 1728
+      endInstruction: 1727
+      startSourceChar: 1862
+      endSourceChar: 1862
       line: 84
       lineChar: 8
       spanCodeSection: 
-    - startInstruction: 1888
-      endInstruction: 1887
-      startSourceChar: 1856
-      endSourceChar: 1856
+    - startInstruction: 1728
+      endInstruction: 1727
+      startSourceChar: 1862
+      endSourceChar: 1862
       line: 84
       lineChar: 8
       spanCodeSection: 
-    - startInstruction: 1888
-      endInstruction: 1887
-      startSourceChar: 1856
-      endSourceChar: 1856
+    - startInstruction: 1728
+      endInstruction: 1727
+      startSourceChar: 1862
+      endSourceChar: 1862
       line: 84
       lineChar: 8
       spanCodeSection: 
-    - startInstruction: 1888
-      endInstruction: 1887
-      startSourceChar: 1856
-      endSourceChar: 1878
+    - startInstruction: 1728
+      endInstruction: 1727
+      startSourceChar: 1862
+      endSourceChar: 1884
       line: 84
       lineChar: 8
       spanCodeSection: "float speed;\r\n        "
-    - startInstruction: 1888
-      endInstruction: 1887
-      startSourceChar: 1878
-      endSourceChar: 1878
+    - startInstruction: 1728
+      endInstruction: 1727
+      startSourceChar: 1884
+      endSourceChar: 1884
       line: 85
       lineChar: 8
       spanCodeSection: 
-    - startInstruction: 1888
-      endInstruction: 1887
-      startSourceChar: 1878
-      endSourceChar: 1878
+    - startInstruction: 1728
+      endInstruction: 1727
+      startSourceChar: 1884
+      endSourceChar: 1884
       line: 85
       lineChar: 8
       spanCodeSection: 
-    - startInstruction: 1888
-      endInstruction: 1887
-      startSourceChar: 1878
-      endSourceChar: 1878
+    - startInstruction: 1728
+      endInstruction: 1727
+      startSourceChar: 1884
+      endSourceChar: 1884
       line: 85
       lineChar: 8
       spanCodeSection: 
-    - startInstruction: 1888
-      endInstruction: 1887
-      startSourceChar: 1878
-      endSourceChar: 1899
+    - startInstruction: 1728
+      endInstruction: 1727
+      startSourceChar: 1884
+      endSourceChar: 1905
       line: 85
       lineChar: 8
       spanCodeSection: "Vector3 v3;\r\n        "
-    - startInstruction: 1888
-      endInstruction: 1887
-      startSourceChar: 1899
-      endSourceChar: 1899
+    - startInstruction: 1728
+      endInstruction: 1727
+      startSourceChar: 1905
+      endSourceChar: 1905
       line: 86
       lineChar: 8
       spanCodeSection: 
-    - startInstruction: 1888
-      endInstruction: 1887
-      startSourceChar: 1899
-      endSourceChar: 1907
+    - startInstruction: 1728
+      endInstruction: 1727
+      startSourceChar: 1905
+      endSourceChar: 1913
       line: 86
       lineChar: 8
       spanCodeSection: 'speed = '
-    - startInstruction: 1888
-      endInstruction: 1887
-      startSourceChar: 1907
-      endSourceChar: 1907
+    - startInstruction: 1728
+      endInstruction: 1727
+      startSourceChar: 1913
+      endSourceChar: 1913
       line: 86
       lineChar: 16
       spanCodeSection: 
-    - startInstruction: 1888
-      endInstruction: 1907
-      startSourceChar: 1907
-      endSourceChar: 1914
+    - startInstruction: 1728
+      endInstruction: 1747
+      startSourceChar: 1913
+      endSourceChar: 1920
       line: 86
       lineChar: 16
       spanCodeSection: 'diff / '
-    - startInstruction: 1908
-      endInstruction: 1983
-      startSourceChar: 1914
-      endSourceChar: 1928
+    - startInstruction: 1748
+      endInstruction: 1823
+      startSourceChar: 1920
+      endSourceChar: 1934
       line: 86
       lineChar: 23
       spanCodeSection: "100;\r\n        "
-    - startInstruction: 1984
-      endInstruction: 1983
-      startSourceChar: 1928
-      endSourceChar: 1928
+    - startInstruction: 1824
+      endInstruction: 1823
+      startSourceChar: 1934
+      endSourceChar: 1934
       line: 87
       lineChar: 8
       spanCodeSection: 
-    - startInstruction: 1984
-      endInstruction: 1983
-      startSourceChar: 1928
-      endSourceChar: 1933
+    - startInstruction: 1824
+      endInstruction: 1823
+      startSourceChar: 1934
+      endSourceChar: 1939
       line: 87
       lineChar: 8
       spanCodeSection: 'v3 = '
-    - startInstruction: 1984
-      endInstruction: 1983
-      startSourceChar: 1933
-      endSourceChar: 1937
+    - startInstruction: 1824
+      endInstruction: 1823
+      startSourceChar: 1939
+      endSourceChar: 1943
       line: 87
       lineChar: 13
       spanCodeSection: 'new '
-    - startInstruction: 1984
-      endInstruction: 1983
-      startSourceChar: 1937
-      endSourceChar: 1945
+    - startInstruction: 1824
+      endInstruction: 1823
+      startSourceChar: 1943
+      endSourceChar: 1951
       line: 87
       lineChar: 17
       spanCodeSection: Vector3(
-    - startInstruction: 1984
-      endInstruction: 1983
-      startSourceChar: 1945
-      endSourceChar: 1945
+    - startInstruction: 1824
+      endInstruction: 1823
+      startSourceChar: 1951
+      endSourceChar: 1951
       line: 87
       lineChar: 25
       spanCodeSection: 
-    - startInstruction: 1984
-      endInstruction: 1983
-      startSourceChar: 1945
-      endSourceChar: 1952
+    - startInstruction: 1824
+      endInstruction: 1823
+      startSourceChar: 1951
+      endSourceChar: 1958
       line: 87
       lineChar: 25
       spanCodeSection: 'speed, '
-    - startInstruction: 1984
-      endInstruction: 1983
-      startSourceChar: 1952
-      endSourceChar: 1952
+    - startInstruction: 1824
+      endInstruction: 1823
+      startSourceChar: 1958
+      endSourceChar: 1958
       line: 87
       lineChar: 32
       spanCodeSection: 
-    - startInstruction: 1984
-      endInstruction: 1983
-      startSourceChar: 1952
-      endSourceChar: 1959
+    - startInstruction: 1824
+      endInstruction: 1823
+      startSourceChar: 1958
+      endSourceChar: 1965
       line: 87
       lineChar: 32
       spanCodeSection: 'speed, '
-    - startInstruction: 1984
-      endInstruction: 1983
-      startSourceChar: 1959
-      endSourceChar: 1959
+    - startInstruction: 1824
+      endInstruction: 1823
+      startSourceChar: 1965
+      endSourceChar: 1965
       line: 87
       lineChar: 39
       spanCodeSection: 
-    - startInstruction: 1984
-      endInstruction: 2043
-      startSourceChar: 1959
-      endSourceChar: 1978
+    - startInstruction: 1824
+      endInstruction: 1883
+      startSourceChar: 1965
+      endSourceChar: 1984
       line: 87
       lineChar: 39
       spanCodeSection: "speed);\r\n\r\n        "
-    - startInstruction: 2044
-      endInstruction: 2043
-      startSourceChar: 1978
-      endSourceChar: 1982
+    - startInstruction: 1884
+      endInstruction: 1883
+      startSourceChar: 1984
+      endSourceChar: 1988
       line: 89
       lineChar: 8
       spanCodeSection: 'if( '
-    - startInstruction: 2044
-      endInstruction: 2043
-      startSourceChar: 1982
-      endSourceChar: 1982
+    - startInstruction: 1884
+      endInstruction: 1883
+      startSourceChar: 1988
+      endSourceChar: 1988
       line: 89
       lineChar: 12
       spanCodeSection: 
-    - startInstruction: 2044
-      endInstruction: 2043
-      startSourceChar: 1982
-      endSourceChar: 1983
+    - startInstruction: 1884
+      endInstruction: 1883
+      startSourceChar: 1988
+      endSourceChar: 1989
       line: 89
       lineChar: 12
       spanCodeSection: (
-    - startInstruction: 2044
-      endInstruction: 2043
-      startSourceChar: 1983
-      endSourceChar: 1983
+    - startInstruction: 1884
+      endInstruction: 1883
+      startSourceChar: 1989
+      endSourceChar: 1989
       line: 89
       lineChar: 13
       spanCodeSection: 
-    - startInstruction: 2044
-      endInstruction: 2043
-      startSourceChar: 1983
-      endSourceChar: 1983
+    - startInstruction: 1884
+      endInstruction: 1883
+      startSourceChar: 1989
+      endSourceChar: 1989
       line: 89
       lineChar: 13
       spanCodeSection: 
-    - startInstruction: 2044
-      endInstruction: 2043
-      startSourceChar: 1983
-      endSourceChar: 1983
+    - startInstruction: 1884
+      endInstruction: 1883
+      startSourceChar: 1989
+      endSourceChar: 1989
       line: 89
       lineChar: 13
       spanCodeSection: 
-    - startInstruction: 2044
-      endInstruction: 2043
-      startSourceChar: 1983
-      endSourceChar: 1983
+    - startInstruction: 1884
+      endInstruction: 1883
+      startSourceChar: 1989
+      endSourceChar: 1989
       line: 89
       lineChar: 13
       spanCodeSection: 
-    - startInstruction: 2044
-      endInstruction: 2043
-      startSourceChar: 1983
-      endSourceChar: 1990
+    - startInstruction: 1884
+      endInstruction: 1883
+      startSourceChar: 1989
+      endSourceChar: 1996
       line: 89
       lineChar: 13
       spanCodeSection: target.
-    - startInstruction: 2044
-      endInstruction: 2043
-      startSourceChar: 1990
-      endSourceChar: 2000
+    - startInstruction: 1884
+      endInstruction: 1883
+      startSourceChar: 1996
+      endSourceChar: 2006
       line: 89
       lineChar: 20
       spanCodeSection: transform.
-    - startInstruction: 2044
-      endInstruction: 2067
-      startSourceChar: 2000
-      endSourceChar: 2011
+    - startInstruction: 1884
+      endInstruction: 1907
+      startSourceChar: 2006
+      endSourceChar: 2017
       line: 89
       lineChar: 30
       spanCodeSection: localScale.
-    - startInstruction: 2068
-      endInstruction: 2135
-      startSourceChar: 2011
-      endSourceChar: 2016
+    - startInstruction: 1908
+      endInstruction: 1975
+      startSourceChar: 2017
+      endSourceChar: 2022
       line: 89
       lineChar: 41
       spanCodeSection: 'x <= '
-    - startInstruction: 2136
-      endInstruction: 2227
-      startSourceChar: 2016
-      endSourceChar: 2027
+    - startInstruction: 1976
+      endInstruction: 2067
+      startSourceChar: 2022
+      endSourceChar: 2033
       line: 89
       lineChar: 46
       spanCodeSection: '_count) && '
-    - startInstruction: 2228
-      endInstruction: 2227
-      startSourceChar: 2027
-      endSourceChar: 2028
+    - startInstruction: 2068
+      endInstruction: 2067
+      startSourceChar: 2033
+      endSourceChar: 2034
       line: 89
       lineChar: 57
       spanCodeSection: (
-    - startInstruction: 2228
-      endInstruction: 2227
-      startSourceChar: 2028
-      endSourceChar: 2028
+    - startInstruction: 2068
+      endInstruction: 2067
+      startSourceChar: 2034
+      endSourceChar: 2034
       line: 89
       lineChar: 58
       spanCodeSection: 
-    - startInstruction: 2228
-      endInstruction: 2247
-      startSourceChar: 2028
-      endSourceChar: 2039
+    - startInstruction: 2068
+      endInstruction: 2087
+      startSourceChar: 2034
+      endSourceChar: 2045
       line: 89
       lineChar: 58
       spanCodeSection: '_isMode == '
-    - startInstruction: 2248
-      endInstruction: 2347
-      startSourceChar: 2039
-      endSourceChar: 2043
+    - startInstruction: 2088
+      endInstruction: 2187
+      startSourceChar: 2045
+      endSourceChar: 2049
       line: 89
       lineChar: 69
       spanCodeSection: 0) )
-    - startInstruction: 2348
-      endInstruction: 2347
-      startSourceChar: 2043
-      endSourceChar: 2140
+    - startInstruction: 2188
+      endInstruction: 2187
+      startSourceChar: 2049
+      endSourceChar: 2146
       line: 89
       lineChar: 73
       spanCodeSection: "{\r\n            // \u30BF\u30FC\u30B2\u30C3\u30C8\u306EScale\u304Ccount\u3088\u308A\u5C0F\u3055\u3051\u308C\u3070\u5927\u304D\u304F\u3066\r\n
         \           // \u304B\u3064\u3001\u5DE8\u5927\u5316\u30E2\u30FC\u30C9\u306E\u3068\u304D\u306F\u5927\u304D\u304F\u3057\u3066\u3044\u304F\r\n
         \           "
-    - startInstruction: 2348
-      endInstruction: 2347
-      startSourceChar: 2140
-      endSourceChar: 2140
+    - startInstruction: 2188
+      endInstruction: 2187
+      startSourceChar: 2146
+      endSourceChar: 2146
       line: 92
       lineChar: 12
       spanCodeSection: 
-    - startInstruction: 2348
-      endInstruction: 2347
-      startSourceChar: 2140
-      endSourceChar: 2171
+    - startInstruction: 2188
+      endInstruction: 2187
+      startSourceChar: 2146
+      endSourceChar: 2177
       line: 92
       lineChar: 12
       spanCodeSection: 'target.transform.localScale += '
-    - startInstruction: 2348
-      endInstruction: 2483
-      startSourceChar: 2171
-      endSourceChar: 2195
+    - startInstruction: 2188
+      endInstruction: 2323
+      startSourceChar: 2177
+      endSourceChar: 2201
       line: 92
       lineChar: 43
       spanCodeSection: "v3;\r\n        }\r\n        "
-    - startInstruction: 2484
-      endInstruction: 2483
-      startSourceChar: 2195
-      endSourceChar: 2200
+    - startInstruction: 2324
+      endInstruction: 2323
+      startSourceChar: 2201
+      endSourceChar: 2206
       line: 94
       lineChar: 8
       spanCodeSection: 'else '
-    - startInstruction: 2484
-      endInstruction: 2483
-      startSourceChar: 2200
-      endSourceChar: 2204
+    - startInstruction: 2324
+      endInstruction: 2323
+      startSourceChar: 2206
+      endSourceChar: 2210
       line: 94
       lineChar: 13
       spanCodeSection: 'if( '
-    - startInstruction: 2484
-      endInstruction: 2483
-      startSourceChar: 2204
-      endSourceChar: 2204
+    - startInstruction: 2324
+      endInstruction: 2323
+      startSourceChar: 2210
+      endSourceChar: 2210
       line: 94
       lineChar: 17
       spanCodeSection: 
-    - startInstruction: 2484
-      endInstruction: 2483
-      startSourceChar: 2204
-      endSourceChar: 2205
+    - startInstruction: 2324
+      endInstruction: 2323
+      startSourceChar: 2210
+      endSourceChar: 2211
       line: 94
       lineChar: 17
       spanCodeSection: (
-    - startInstruction: 2484
-      endInstruction: 2483
-      startSourceChar: 2205
-      endSourceChar: 2205
+    - startInstruction: 2324
+      endInstruction: 2323
+      startSourceChar: 2211
+      endSourceChar: 2211
       line: 94
       lineChar: 18
       spanCodeSection: 
-    - startInstruction: 2484
-      endInstruction: 2483
-      startSourceChar: 2205
-      endSourceChar: 2205
+    - startInstruction: 2324
+      endInstruction: 2323
+      startSourceChar: 2211
+      endSourceChar: 2211
       line: 94
       lineChar: 18
       spanCodeSection: 
-    - startInstruction: 2484
-      endInstruction: 2483
-      startSourceChar: 2205
-      endSourceChar: 2205
+    - startInstruction: 2324
+      endInstruction: 2323
+      startSourceChar: 2211
+      endSourceChar: 2211
       line: 94
       lineChar: 18
       spanCodeSection: 
-    - startInstruction: 2484
-      endInstruction: 2483
-      startSourceChar: 2205
-      endSourceChar: 2205
+    - startInstruction: 2324
+      endInstruction: 2323
+      startSourceChar: 2211
+      endSourceChar: 2211
       line: 94
       lineChar: 18
       spanCodeSection: 
-    - startInstruction: 2484
-      endInstruction: 2483
-      startSourceChar: 2205
-      endSourceChar: 2212
+    - startInstruction: 2324
+      endInstruction: 2323
+      startSourceChar: 2211
+      endSourceChar: 2218
       line: 94
       lineChar: 18
       spanCodeSection: target.
-    - startInstruction: 2484
-      endInstruction: 2483
-      startSourceChar: 2212
-      endSourceChar: 2222
+    - startInstruction: 2324
+      endInstruction: 2323
+      startSourceChar: 2218
+      endSourceChar: 2228
       line: 94
       lineChar: 25
       spanCodeSection: transform.
-    - startInstruction: 2484
-      endInstruction: 2507
-      startSourceChar: 2222
-      endSourceChar: 2233
+    - startInstruction: 2324
+      endInstruction: 2347
+      startSourceChar: 2228
+      endSourceChar: 2239
       line: 94
       lineChar: 35
       spanCodeSection: localScale.
-    - startInstruction: 2508
-      endInstruction: 2575
-      startSourceChar: 2233
-      endSourceChar: 2238
+    - startInstruction: 2348
+      endInstruction: 2415
+      startSourceChar: 2239
+      endSourceChar: 2244
       line: 94
       lineChar: 46
       spanCodeSection: 'x >= '
-    - startInstruction: 2576
-      endInstruction: 2667
-      startSourceChar: 2238
-      endSourceChar: 2249
+    - startInstruction: 2416
+      endInstruction: 2507
+      startSourceChar: 2244
+      endSourceChar: 2255
       line: 94
       lineChar: 51
       spanCodeSection: '_count) && '
-    - startInstruction: 2668
-      endInstruction: 2667
-      startSourceChar: 2249
-      endSourceChar: 2250
+    - startInstruction: 2508
+      endInstruction: 2507
+      startSourceChar: 2255
+      endSourceChar: 2256
       line: 94
       lineChar: 62
       spanCodeSection: (
-    - startInstruction: 2668
-      endInstruction: 2667
-      startSourceChar: 2250
-      endSourceChar: 2250
+    - startInstruction: 2508
+      endInstruction: 2507
+      startSourceChar: 2256
+      endSourceChar: 2256
       line: 94
       lineChar: 63
       spanCodeSection: 
-    - startInstruction: 2668
-      endInstruction: 2687
-      startSourceChar: 2250
-      endSourceChar: 2261
+    - startInstruction: 2508
+      endInstruction: 2527
+      startSourceChar: 2256
+      endSourceChar: 2267
       line: 94
       lineChar: 63
       spanCodeSection: '_isMode == '
-    - startInstruction: 2688
-      endInstruction: 2787
-      startSourceChar: 2261
-      endSourceChar: 2266
+    - startInstruction: 2528
+      endInstruction: 2627
+      startSourceChar: 2267
+      endSourceChar: 2272
       line: 94
       lineChar: 74
       spanCodeSection: '1) ) '
-    - startInstruction: 2788
-      endInstruction: 2787
-      startSourceChar: 2266
-      endSourceChar: 2357
+    - startInstruction: 2628
+      endInstruction: 2627
+      startSourceChar: 2272
+      endSourceChar: 2407
       line: 94
       lineChar: 79
       spanCodeSection: "{\r\n            // \u30BF\u30FC\u30B2\u30C3\u30C8\u306EScale\u304Ccount\u3088\u308A\u5927\u304D\u304F\u3066\r\n
-        \           // \u304B\u3064\u3001\u7E2E\u5C0F\u30E2\u30FC\u30C9\u306E\u5834\u5408\u306F\u5C0F\u3055\u304F\u3057\u3066\u3044\u304F\r\n
+        \           // \u304B\u3064\u3001\u7E2E\u5C0F\u30E2\u30FC\u30C9\u306E\u5834\u5408\u306F\u5C0F\u3055\u304F\u3057\u3066\u3044\u304F\r\n\r\n
+        \           // \u7E2E\u5C0F\u30E2\u30FC\u30C9\u3067\u306Fdiff\u306F\u30DE\u30A4\u30CA\u30B9\u306B\u306A\u308B\u306E\u3067\u52A0\u7B97\u51E6\u7406\r\n
         \           "
-    - startInstruction: 2788
-      endInstruction: 2787
-      startSourceChar: 2357
-      endSourceChar: 2357
-      line: 97
+    - startInstruction: 2628
+      endInstruction: 2627
+      startSourceChar: 2407
+      endSourceChar: 2407
+      line: 99
       lineChar: 12
       spanCodeSection: 
-    - startInstruction: 2788
-      endInstruction: 2787
-      startSourceChar: 2357
-      endSourceChar: 2388
-      line: 97
+    - startInstruction: 2628
+      endInstruction: 2627
+      startSourceChar: 2407
+      endSourceChar: 2438
+      line: 99
       lineChar: 12
-      spanCodeSection: 'target.transform.localScale -= '
-    - startInstruction: 2788
-      endInstruction: 2923
-      startSourceChar: 2388
-      endSourceChar: 2430
-      line: 97
+      spanCodeSection: 'target.transform.localScale += '
+    - startInstruction: 2628
+      endInstruction: 2763
+      startSourceChar: 2438
+      endSourceChar: 2480
+      line: 99
       lineChar: 43
       spanCodeSection: "v3;\r\n        }\r\n    }\r\n\r\n    // \u8868\u793A\u51E6\u7406\r\n
         \   "
-    - startInstruction: 2924
-      endInstruction: 2943
-      startSourceChar: 2430
-      endSourceChar: 2445
-      line: 102
+    - startInstruction: 2764
+      endInstruction: 2783
+      startSourceChar: 2480
+      endSourceChar: 2495
+      line: 104
       lineChar: 4
       spanCodeSection: void ViewText()
-    - startInstruction: 2944
-      endInstruction: 2943
-      startSourceChar: 2445
-      endSourceChar: 2471
-      line: 102
+    - startInstruction: 2784
+      endInstruction: 2783
+      startSourceChar: 2495
+      endSourceChar: 2521
+      line: 104
       lineChar: 19
       spanCodeSection: "{\r\n        // \u8EAB\u9577\r\n        "
-    - startInstruction: 2944
-      endInstruction: 2943
-      startSourceChar: 2471
-      endSourceChar: 2474
-      line: 104
+    - startInstruction: 2784
+      endInstruction: 2783
+      startSourceChar: 2521
+      endSourceChar: 2524
+      line: 106
       lineChar: 8
       spanCodeSection: if(
-    - startInstruction: 2944
-      endInstruction: 2943
-      startSourceChar: 2474
-      endSourceChar: 2474
-      line: 104
+    - startInstruction: 2784
+      endInstruction: 2783
+      startSourceChar: 2524
+      endSourceChar: 2524
+      line: 106
       lineChar: 11
       spanCodeSection: 
-    - startInstruction: 2944
-      endInstruction: 2963
-      startSourceChar: 2474
-      endSourceChar: 2485
-      line: 104
+    - startInstruction: 2784
+      endInstruction: 2803
+      startSourceChar: 2524
+      endSourceChar: 2535
+      line: 106
       lineChar: 11
       spanCodeSection: '_height >= '
-    - startInstruction: 2964
-      endInstruction: 3035
-      startSourceChar: 2485
-      endSourceChar: 2492
-      line: 104
+    - startInstruction: 2804
+      endInstruction: 2875
+      startSourceChar: 2535
+      endSourceChar: 2542
+      line: 106
       lineChar: 22
       spanCodeSection: 100000)
-    - startInstruction: 3036
-      endInstruction: 3035
-      startSourceChar: 2492
-      endSourceChar: 2547
-      line: 104
+    - startInstruction: 2876
+      endInstruction: 2875
+      startSourceChar: 2542
+      endSourceChar: 2597
+      line: 106
       lineChar: 29
       spanCodeSection: "{\r\n            // 100000cm\u3092\u8D85\u3048\u3066\u3044\u308B\u5834\u5408\u30AD\u30ED\u30E1\u30FC\u30C8\u30EB\u306B\r\n
         \           "
-    - startInstruction: 3036
-      endInstruction: 3035
-      startSourceChar: 2547
-      endSourceChar: 2547
-      line: 106
+    - startInstruction: 2876
+      endInstruction: 2875
+      startSourceChar: 2597
+      endSourceChar: 2597
+      line: 108
       lineChar: 12
       spanCodeSection: 
-    - startInstruction: 3036
-      endInstruction: 3035
-      startSourceChar: 2547
-      endSourceChar: 2561
-      line: 106
+    - startInstruction: 2876
+      endInstruction: 2875
+      startSourceChar: 2597
+      endSourceChar: 2611
+      line: 108
       lineChar: 12
       spanCodeSection: 'height.text = '
-    - startInstruction: 3036
-      endInstruction: 3035
-      startSourceChar: 2561
-      endSourceChar: 2561
-      line: 106
+    - startInstruction: 2876
+      endInstruction: 2875
+      startSourceChar: 2611
+      endSourceChar: 2611
+      line: 108
       lineChar: 26
       spanCodeSection: 
-    - startInstruction: 3036
-      endInstruction: 3035
-      startSourceChar: 2561
-      endSourceChar: 2561
-      line: 106
+    - startInstruction: 2876
+      endInstruction: 2875
+      startSourceChar: 2611
+      endSourceChar: 2611
+      line: 108
       lineChar: 26
       spanCodeSection: 
-    - startInstruction: 3036
-      endInstruction: 3035
-      startSourceChar: 2561
-      endSourceChar: 2561
-      line: 106
+    - startInstruction: 2876
+      endInstruction: 2875
+      startSourceChar: 2611
+      endSourceChar: 2611
+      line: 108
       lineChar: 26
       spanCodeSection: 
-    - startInstruction: 3036
-      endInstruction: 3035
-      startSourceChar: 2561
-      endSourceChar: 2562
-      line: 106
+    - startInstruction: 2876
+      endInstruction: 2875
+      startSourceChar: 2611
+      endSourceChar: 2612
+      line: 108
       lineChar: 26
       spanCodeSection: (
-    - startInstruction: 3036
-      endInstruction: 3035
-      startSourceChar: 2562
-      endSourceChar: 2562
-      line: 106
+    - startInstruction: 2876
+      endInstruction: 2875
+      startSourceChar: 2612
+      endSourceChar: 2612
+      line: 108
       lineChar: 27
       spanCodeSection: 
-    - startInstruction: 3036
-      endInstruction: 3035
-      startSourceChar: 2562
-      endSourceChar: 2562
-      line: 106
+    - startInstruction: 2876
+      endInstruction: 2875
+      startSourceChar: 2612
+      endSourceChar: 2612
+      line: 108
       lineChar: 27
       spanCodeSection: 
-    - startInstruction: 3036
-      endInstruction: 3055
-      startSourceChar: 2562
-      endSourceChar: 2572
-      line: 106
+    - startInstruction: 2876
+      endInstruction: 2895
+      startSourceChar: 2612
+      endSourceChar: 2622
+      line: 108
       lineChar: 27
       spanCodeSection: '_height / '
-    - startInstruction: 3056
-      endInstruction: 3131
-      startSourceChar: 2572
-      endSourceChar: 2578
-      line: 106
-      lineChar: 37
-      spanCodeSection: '100 / '
-    - startInstruction: 3132
-      endInstruction: 3187
-      startSourceChar: 2578
-      endSourceChar: 2584
-      line: 106
-      lineChar: 43
-      spanCodeSection: 1000).
-    - startInstruction: 3188
-      endInstruction: 3231
-      startSourceChar: 2584
-      endSourceChar: 2597
-      line: 106
-      lineChar: 49
-      spanCodeSection: 'ToString() + '
-    - startInstruction: 3232
-      endInstruction: 3295
-      startSourceChar: 2597
-      endSourceChar: 2623
-      line: 106
-      lineChar: 62
-      spanCodeSection: "\"km\";\r\n        }\r\n        "
-    - startInstruction: 3296
-      endInstruction: 3295
-      startSourceChar: 2623
+    - startInstruction: 2896
+      endInstruction: 2971
+      startSourceChar: 2622
       endSourceChar: 2628
       line: 108
-      lineChar: 8
-      spanCodeSection: 'else '
-    - startInstruction: 3296
-      endInstruction: 3295
+      lineChar: 37
+      spanCodeSection: '100 / '
+    - startInstruction: 2972
+      endInstruction: 3027
       startSourceChar: 2628
-      endSourceChar: 2631
+      endSourceChar: 2634
       line: 108
-      lineChar: 13
-      spanCodeSection: if(
-    - startInstruction: 3296
-      endInstruction: 3295
-      startSourceChar: 2631
-      endSourceChar: 2631
-      line: 108
-      lineChar: 16
-      spanCodeSection: 
-    - startInstruction: 3296
-      endInstruction: 3315
-      startSourceChar: 2631
-      endSourceChar: 2642
-      line: 108
-      lineChar: 16
-      spanCodeSection: '_height >= '
-    - startInstruction: 3316
-      endInstruction: 3387
-      startSourceChar: 2642
+      lineChar: 43
+      spanCodeSection: 1000).
+    - startInstruction: 3028
+      endInstruction: 3071
+      startSourceChar: 2634
       endSourceChar: 2647
       line: 108
+      lineChar: 49
+      spanCodeSection: 'ToString() + '
+    - startInstruction: 3072
+      endInstruction: 3135
+      startSourceChar: 2647
+      endSourceChar: 2673
+      line: 108
+      lineChar: 62
+      spanCodeSection: "\"km\";\r\n        }\r\n        "
+    - startInstruction: 3136
+      endInstruction: 3135
+      startSourceChar: 2673
+      endSourceChar: 2678
+      line: 110
+      lineChar: 8
+      spanCodeSection: 'else '
+    - startInstruction: 3136
+      endInstruction: 3135
+      startSourceChar: 2678
+      endSourceChar: 2681
+      line: 110
+      lineChar: 13
+      spanCodeSection: if(
+    - startInstruction: 3136
+      endInstruction: 3135
+      startSourceChar: 2681
+      endSourceChar: 2681
+      line: 110
+      lineChar: 16
+      spanCodeSection: 
+    - startInstruction: 3136
+      endInstruction: 3155
+      startSourceChar: 2681
+      endSourceChar: 2692
+      line: 110
+      lineChar: 16
+      spanCodeSection: '_height >= '
+    - startInstruction: 3156
+      endInstruction: 3227
+      startSourceChar: 2692
+      endSourceChar: 2697
+      line: 110
       lineChar: 27
       spanCodeSection: 1000)
-    - startInstruction: 3388
-      endInstruction: 3387
-      startSourceChar: 2647
-      endSourceChar: 2697
-      line: 108
+    - startInstruction: 3228
+      endInstruction: 3227
+      startSourceChar: 2697
+      endSourceChar: 2747
+      line: 110
       lineChar: 32
       spanCodeSection: "{\r\n            // 100cm\u3092\u8D85\u3048\u3066\u3044\u308B\u5834\u5408\u30E1\u30FC\u30C8\u30EB\u306B\r\n
         \           "
-    - startInstruction: 3388
-      endInstruction: 3387
-      startSourceChar: 2697
-      endSourceChar: 2697
-      line: 110
+    - startInstruction: 3228
+      endInstruction: 3227
+      startSourceChar: 2747
+      endSourceChar: 2747
+      line: 112
       lineChar: 12
       spanCodeSection: 
-    - startInstruction: 3388
-      endInstruction: 3387
-      startSourceChar: 2697
-      endSourceChar: 2711
-      line: 110
+    - startInstruction: 3228
+      endInstruction: 3227
+      startSourceChar: 2747
+      endSourceChar: 2761
+      line: 112
       lineChar: 12
       spanCodeSection: 'height.text = '
-    - startInstruction: 3388
-      endInstruction: 3387
-      startSourceChar: 2711
-      endSourceChar: 2711
-      line: 110
+    - startInstruction: 3228
+      endInstruction: 3227
+      startSourceChar: 2761
+      endSourceChar: 2761
+      line: 112
       lineChar: 26
       spanCodeSection: 
-    - startInstruction: 3388
-      endInstruction: 3387
-      startSourceChar: 2711
-      endSourceChar: 2711
-      line: 110
+    - startInstruction: 3228
+      endInstruction: 3227
+      startSourceChar: 2761
+      endSourceChar: 2761
+      line: 112
       lineChar: 26
       spanCodeSection: 
-    - startInstruction: 3388
-      endInstruction: 3387
-      startSourceChar: 2711
-      endSourceChar: 2711
-      line: 110
+    - startInstruction: 3228
+      endInstruction: 3227
+      startSourceChar: 2761
+      endSourceChar: 2761
+      line: 112
       lineChar: 26
       spanCodeSection: 
-    - startInstruction: 3388
-      endInstruction: 3387
-      startSourceChar: 2711
-      endSourceChar: 2712
-      line: 110
+    - startInstruction: 3228
+      endInstruction: 3227
+      startSourceChar: 2761
+      endSourceChar: 2762
+      line: 112
       lineChar: 26
       spanCodeSection: (
-    - startInstruction: 3388
-      endInstruction: 3387
-      startSourceChar: 2712
-      endSourceChar: 2712
-      line: 110
+    - startInstruction: 3228
+      endInstruction: 3227
+      startSourceChar: 2762
+      endSourceChar: 2762
+      line: 112
       lineChar: 27
       spanCodeSection: 
-    - startInstruction: 3388
-      endInstruction: 3407
-      startSourceChar: 2712
-      endSourceChar: 2722
-      line: 110
+    - startInstruction: 3228
+      endInstruction: 3247
+      startSourceChar: 2762
+      endSourceChar: 2772
+      line: 112
       lineChar: 27
       spanCodeSection: '_height / '
-    - startInstruction: 3408
-      endInstruction: 3463
-      startSourceChar: 2722
-      endSourceChar: 2727
-      line: 110
+    - startInstruction: 3248
+      endInstruction: 3303
+      startSourceChar: 2772
+      endSourceChar: 2777
+      line: 112
       lineChar: 37
       spanCodeSection: 100).
-    - startInstruction: 3464
-      endInstruction: 3507
-      startSourceChar: 2727
-      endSourceChar: 2740
-      line: 110
+    - startInstruction: 3304
+      endInstruction: 3347
+      startSourceChar: 2777
+      endSourceChar: 2790
+      line: 112
       lineChar: 42
       spanCodeSection: 'ToString() + '
-    - startInstruction: 3508
-      endInstruction: 3571
-      startSourceChar: 2740
-      endSourceChar: 2765
-      line: 110
+    - startInstruction: 3348
+      endInstruction: 3411
+      startSourceChar: 2790
+      endSourceChar: 2815
+      line: 112
       lineChar: 55
       spanCodeSection: "\"m\";\r\n        }\r\n        "
-    - startInstruction: 3572
-      endInstruction: 3571
-      startSourceChar: 2765
-      endSourceChar: 2770
-      line: 112
+    - startInstruction: 3412
+      endInstruction: 3411
+      startSourceChar: 2815
+      endSourceChar: 2820
+      line: 114
       lineChar: 8
       spanCodeSection: 'else '
-    - startInstruction: 3572
-      endInstruction: 3571
-      startSourceChar: 2770
-      endSourceChar: 2811
-      line: 112
+    - startInstruction: 3412
+      endInstruction: 3411
+      startSourceChar: 2820
+      endSourceChar: 2861
+      line: 114
       lineChar: 13
       spanCodeSection: "{\r\n            // \u305D\u308C\u4EE5\u5916\u306F\u30BB\u30F3\u30C1\u3067\r\n
         \           "
-    - startInstruction: 3572
-      endInstruction: 3571
-      startSourceChar: 2811
-      endSourceChar: 2811
-      line: 114
+    - startInstruction: 3412
+      endInstruction: 3411
+      startSourceChar: 2861
+      endSourceChar: 2861
+      line: 116
       lineChar: 12
       spanCodeSection: 
-    - startInstruction: 3572
-      endInstruction: 3571
-      startSourceChar: 2811
-      endSourceChar: 2825
-      line: 114
+    - startInstruction: 3412
+      endInstruction: 3411
+      startSourceChar: 2861
+      endSourceChar: 2875
+      line: 116
       lineChar: 12
       spanCodeSection: 'height.text = '
-    - startInstruction: 3572
-      endInstruction: 3571
-      startSourceChar: 2825
-      endSourceChar: 2825
-      line: 114
+    - startInstruction: 3412
+      endInstruction: 3411
+      startSourceChar: 2875
+      endSourceChar: 2875
+      line: 116
       lineChar: 26
       spanCodeSection: 
-    - startInstruction: 3572
-      endInstruction: 3571
-      startSourceChar: 2825
-      endSourceChar: 2825
-      line: 114
+    - startInstruction: 3412
+      endInstruction: 3411
+      startSourceChar: 2875
+      endSourceChar: 2875
+      line: 116
       lineChar: 26
       spanCodeSection: 
-    - startInstruction: 3572
-      endInstruction: 3571
-      startSourceChar: 2825
-      endSourceChar: 2825
-      line: 114
+    - startInstruction: 3412
+      endInstruction: 3411
+      startSourceChar: 2875
+      endSourceChar: 2875
+      line: 116
       lineChar: 26
       spanCodeSection: 
-    - startInstruction: 3572
-      endInstruction: 3571
-      startSourceChar: 2825
-      endSourceChar: 2833
-      line: 114
+    - startInstruction: 3412
+      endInstruction: 3411
+      startSourceChar: 2875
+      endSourceChar: 2883
+      line: 116
       lineChar: 26
       spanCodeSection: _height.
-    - startInstruction: 3572
-      endInstruction: 3615
-      startSourceChar: 2833
-      endSourceChar: 2846
-      line: 114
+    - startInstruction: 3412
+      endInstruction: 3455
+      startSourceChar: 2883
+      endSourceChar: 2896
+      line: 116
       lineChar: 34
       spanCodeSection: 'ToString() + '
-    - startInstruction: 3616
-      endInstruction: 3671
-      startSourceChar: 2846
-      endSourceChar: 2889
-      line: 114
+    - startInstruction: 3456
+      endInstruction: 3511
+      startSourceChar: 2896
+      endSourceChar: 2939
+      line: 116
       lineChar: 47
       spanCodeSection: "\"cm\";\r\n        }\r\n\r\n        // \u4F53\u91CD\r\n        "
-    - startInstruction: 3672
-      endInstruction: 3671
-      startSourceChar: 2889
-      endSourceChar: 2892
-      line: 118
+    - startInstruction: 3512
+      endInstruction: 3511
+      startSourceChar: 2939
+      endSourceChar: 2942
+      line: 120
       lineChar: 8
       spanCodeSection: if(
-    - startInstruction: 3672
-      endInstruction: 3671
-      startSourceChar: 2892
-      endSourceChar: 2892
-      line: 118
+    - startInstruction: 3512
+      endInstruction: 3511
+      startSourceChar: 2942
+      endSourceChar: 2942
+      line: 120
       lineChar: 11
       spanCodeSection: 
-    - startInstruction: 3672
-      endInstruction: 3691
-      startSourceChar: 2892
-      endSourceChar: 2903
-      line: 118
+    - startInstruction: 3512
+      endInstruction: 3531
+      startSourceChar: 2942
+      endSourceChar: 2953
+      line: 120
       lineChar: 11
       spanCodeSection: '_weight >= '
-    - startInstruction: 3692
-      endInstruction: 3763
-      startSourceChar: 2903
-      endSourceChar: 2908
-      line: 118
+    - startInstruction: 3532
+      endInstruction: 3603
+      startSourceChar: 2953
+      endSourceChar: 2958
+      line: 120
       lineChar: 22
       spanCodeSection: 1000)
-    - startInstruction: 3764
-      endInstruction: 3763
-      startSourceChar: 2908
-      endSourceChar: 2956
-      line: 118
+    - startInstruction: 3604
+      endInstruction: 3603
+      startSourceChar: 2958
+      endSourceChar: 3006
+      line: 120
       lineChar: 27
       spanCodeSection: "{\r\n            // 1000\u3092\u8D85\u3048\u3066\u3044\u308B\u5834\u5408\u306F\u30C8\u30F3\u306B\r\n
         \           "
-    - startInstruction: 3764
-      endInstruction: 3763
-      startSourceChar: 2956
-      endSourceChar: 2956
-      line: 120
+    - startInstruction: 3604
+      endInstruction: 3603
+      startSourceChar: 3006
+      endSourceChar: 3006
+      line: 122
       lineChar: 12
       spanCodeSection: 
-    - startInstruction: 3764
-      endInstruction: 3763
-      startSourceChar: 2956
-      endSourceChar: 2970
-      line: 120
+    - startInstruction: 3604
+      endInstruction: 3603
+      startSourceChar: 3006
+      endSourceChar: 3020
+      line: 122
       lineChar: 12
       spanCodeSection: 'weight.text = '
-    - startInstruction: 3764
-      endInstruction: 3763
-      startSourceChar: 2970
-      endSourceChar: 2970
-      line: 120
+    - startInstruction: 3604
+      endInstruction: 3603
+      startSourceChar: 3020
+      endSourceChar: 3020
+      line: 122
       lineChar: 26
       spanCodeSection: 
-    - startInstruction: 3764
-      endInstruction: 3763
-      startSourceChar: 2970
-      endSourceChar: 2970
-      line: 120
+    - startInstruction: 3604
+      endInstruction: 3603
+      startSourceChar: 3020
+      endSourceChar: 3020
+      line: 122
       lineChar: 26
       spanCodeSection: 
-    - startInstruction: 3764
-      endInstruction: 3763
-      startSourceChar: 2970
-      endSourceChar: 2970
-      line: 120
+    - startInstruction: 3604
+      endInstruction: 3603
+      startSourceChar: 3020
+      endSourceChar: 3020
+      line: 122
       lineChar: 26
       spanCodeSection: 
-    - startInstruction: 3764
-      endInstruction: 3763
-      startSourceChar: 2970
-      endSourceChar: 2971
-      line: 120
+    - startInstruction: 3604
+      endInstruction: 3603
+      startSourceChar: 3020
+      endSourceChar: 3021
+      line: 122
       lineChar: 26
       spanCodeSection: (
-    - startInstruction: 3764
-      endInstruction: 3763
-      startSourceChar: 2971
-      endSourceChar: 2971
-      line: 120
+    - startInstruction: 3604
+      endInstruction: 3603
+      startSourceChar: 3021
+      endSourceChar: 3021
+      line: 122
       lineChar: 27
       spanCodeSection: 
-    - startInstruction: 3764
-      endInstruction: 3783
-      startSourceChar: 2971
-      endSourceChar: 2981
-      line: 120
+    - startInstruction: 3604
+      endInstruction: 3623
+      startSourceChar: 3021
+      endSourceChar: 3031
+      line: 122
       lineChar: 27
       spanCodeSection: '_weight / '
-    - startInstruction: 3784
-      endInstruction: 3839
-      startSourceChar: 2981
-      endSourceChar: 2987
-      line: 120
+    - startInstruction: 3624
+      endInstruction: 3679
+      startSourceChar: 3031
+      endSourceChar: 3037
+      line: 122
       lineChar: 37
       spanCodeSection: 1000).
-    - startInstruction: 3840
-      endInstruction: 3883
-      startSourceChar: 2987
-      endSourceChar: 3000
-      line: 120
+    - startInstruction: 3680
+      endInstruction: 3723
+      startSourceChar: 3037
+      endSourceChar: 3050
+      line: 122
       lineChar: 43
       spanCodeSection: 'ToString() + '
-    - startInstruction: 3884
-      endInstruction: 3947
-      startSourceChar: 3000
-      endSourceChar: 3016
-      line: 120
+    - startInstruction: 3724
+      endInstruction: 3787
+      startSourceChar: 3050
+      endSourceChar: 3066
+      line: 122
       lineChar: 56
       spanCodeSection: "\"t\";\r\n        } "
-    - startInstruction: 3948
-      endInstruction: 3947
-      startSourceChar: 3016
-      endSourceChar: 3021
-      line: 121
+    - startInstruction: 3788
+      endInstruction: 3787
+      startSourceChar: 3066
+      endSourceChar: 3071
+      line: 123
       lineChar: 10
       spanCodeSection: 'else '
-    - startInstruction: 3948
-      endInstruction: 3947
-      startSourceChar: 3021
-      endSourceChar: 3064
-      line: 121
+    - startInstruction: 3788
+      endInstruction: 3787
+      startSourceChar: 3071
+      endSourceChar: 3114
+      line: 123
       lineChar: 15
       spanCodeSection: "{\r\n            // \u305D\u308C\u4EE5\u5916\u306F\u30AD\u30ED\u30B0\u30E9\u30E0\u3067\r\n
         \           "
-    - startInstruction: 3948
-      endInstruction: 3947
-      startSourceChar: 3064
-      endSourceChar: 3064
-      line: 123
+    - startInstruction: 3788
+      endInstruction: 3787
+      startSourceChar: 3114
+      endSourceChar: 3114
+      line: 125
       lineChar: 12
       spanCodeSection: 
-    - startInstruction: 3948
-      endInstruction: 3947
-      startSourceChar: 3064
-      endSourceChar: 3078
-      line: 123
+    - startInstruction: 3788
+      endInstruction: 3787
+      startSourceChar: 3114
+      endSourceChar: 3128
+      line: 125
       lineChar: 12
       spanCodeSection: 'weight.text = '
-    - startInstruction: 3948
-      endInstruction: 3947
-      startSourceChar: 3078
-      endSourceChar: 3078
-      line: 123
+    - startInstruction: 3788
+      endInstruction: 3787
+      startSourceChar: 3128
+      endSourceChar: 3128
+      line: 125
       lineChar: 26
       spanCodeSection: 
-    - startInstruction: 3948
-      endInstruction: 3947
-      startSourceChar: 3078
-      endSourceChar: 3078
-      line: 123
+    - startInstruction: 3788
+      endInstruction: 3787
+      startSourceChar: 3128
+      endSourceChar: 3128
+      line: 125
       lineChar: 26
       spanCodeSection: 
-    - startInstruction: 3948
-      endInstruction: 3947
-      startSourceChar: 3078
-      endSourceChar: 3078
-      line: 123
+    - startInstruction: 3788
+      endInstruction: 3787
+      startSourceChar: 3128
+      endSourceChar: 3128
+      line: 125
       lineChar: 26
       spanCodeSection: 
-    - startInstruction: 3948
-      endInstruction: 3947
-      startSourceChar: 3078
-      endSourceChar: 3086
-      line: 123
+    - startInstruction: 3788
+      endInstruction: 3787
+      startSourceChar: 3128
+      endSourceChar: 3136
+      line: 125
       lineChar: 26
       spanCodeSection: _weight.
-    - startInstruction: 3948
-      endInstruction: 3991
-      startSourceChar: 3086
-      endSourceChar: 3099
-      line: 123
+    - startInstruction: 3788
+      endInstruction: 3831
+      startSourceChar: 3136
+      endSourceChar: 3149
+      line: 125
       lineChar: 34
       spanCodeSection: 'ToString() + '
-    - startInstruction: 3992
-      endInstruction: 4047
-      startSourceChar: 3099
-      endSourceChar: 3127
-      line: 123
+    - startInstruction: 3832
+      endInstruction: 3887
+      startSourceChar: 3149
+      endSourceChar: 3177
+      line: 125
       lineChar: 47
       spanCodeSection: "\"kg\";\r\n        }\r\n\r\n        "
-    - startInstruction: 4048
-      endInstruction: 4047
-      startSourceChar: 3127
-      endSourceChar: 3127
-      line: 126
+    - startInstruction: 3888
+      endInstruction: 3887
+      startSourceChar: 3177
+      endSourceChar: 3177
+      line: 128
       lineChar: 8
       spanCodeSection: 
-    - startInstruction: 4048
-      endInstruction: 4047
-      startSourceChar: 3127
-      endSourceChar: 3140
-      line: 126
+    - startInstruction: 3888
+      endInstruction: 3887
+      startSourceChar: 3177
+      endSourceChar: 3190
+      line: 128
       lineChar: 8
       spanCodeSection: 'count.text = '
-    - startInstruction: 4048
-      endInstruction: 4047
-      startSourceChar: 3140
-      endSourceChar: 3140
-      line: 126
+    - startInstruction: 3888
+      endInstruction: 3887
+      startSourceChar: 3190
+      endSourceChar: 3190
+      line: 128
       lineChar: 21
       spanCodeSection: 
-    - startInstruction: 4048
-      endInstruction: 4047
-      startSourceChar: 3140
-      endSourceChar: 3140
-      line: 126
+    - startInstruction: 3888
+      endInstruction: 3887
+      startSourceChar: 3190
+      endSourceChar: 3190
+      line: 128
       lineChar: 21
       spanCodeSection: 
-    - startInstruction: 4048
-      endInstruction: 4047
-      startSourceChar: 3140
-      endSourceChar: 3147
-      line: 126
+    - startInstruction: 3888
+      endInstruction: 3887
+      startSourceChar: 3190
+      endSourceChar: 3197
+      line: 128
       lineChar: 21
       spanCodeSection: _count.
-    - startInstruction: 4048
-      endInstruction: 4048
-      startSourceChar: 3147
-      endSourceChar: 3147
-      line: 126
+    - startInstruction: 3888
+      endInstruction: 3888
+      startSourceChar: 3197
+      endSourceChar: 3197
+      line: 128
       lineChar: 28
       spanCodeSection: 
   hasInteractEvent: 0

@@ -76,9 +76,9 @@ public class Control : UdonSharpBehaviour
         float diff;
         diff = _count - target.transform.localScale.x;
 
-        // scale を切り上げた整数
-        int scale;
-        scale = (int)Mathf.Ceil(target.transform.localScale.x);
+//        // scale を切り上げた整数
+//        int scale;
+//        scale = (int)Mathf.Ceil(target.transform.localScale.x);
 
         // 1フレームごとに足していく数値
         // 差があるほどスピードアップ
@@ -95,7 +95,9 @@ public class Control : UdonSharpBehaviour
         else if( (target.transform.localScale.x >= _count) && (_isMode == 1) ) {
             // ターゲットのScaleがcountより大きくて
             // かつ、縮小モードの場合は小さくしていく
-            target.transform.localScale -= v3;
+
+            // 縮小モードではdiffはマイナスになるので加算処理
+            target.transform.localScale += v3;
         }
     }
 
