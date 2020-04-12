@@ -10,18 +10,22 @@ using VRC.Udon;
 public class Reset : UdonSharpBehaviour
 {
 
-    GameObject root;
+    GameObject parent;
     UdonBehaviour script;
 
     void Start()
     {
-        root = transform.root.gameObject;
-        script = (UdonBehaviour)root.GetComponent(typeof(UdonBehaviour));
+        // 親オブジェクトを取得
+        parent = transform.parent.gameObject;
+
+        // 親オブジェクトのU#スクリプトを取得
+        script = (UdonBehaviour)parent.GetComponent(typeof(UdonBehaviour));
     }
     
 
     public override void Interact()
     {
+        // 親のスクリプトから関数を呼び出し
         script.SendCustomEvent("Reset");
     }
     

@@ -15,7 +15,7 @@ MonoBehaviour:
   serializedUdonProgramAsset: {fileID: 11400000, guid: 9fc0fca84fcc07e43b8d73c3585a5fd8,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n\r\n    __refl_const_intnl_udonTypeID: %SystemInt64,
-    null\r\n    __refl_const_intnl_udonTypeName: %SystemString, null\r\n    root:
+    null\r\n    __refl_const_intnl_udonTypeName: %SystemString, null\r\n    parent:
     %UnityEngineGameObject, null\r\n    script: %VRCUdonUdonBehaviour, null\r\n    __0_this_intnl_UnityEngineTransform:
     %UnityEngineTransform, this\r\n    __0_localPlayer_VRCPlayerApi: %VRCSDKBaseVRCPlayerApi,
     null\r\n    __0_const_intnl_SystemObject: %SystemObject, null\r\n    __0_const_intnl_SystemType:
@@ -31,17 +31,17 @@ MonoBehaviour:
     \       \r\n         # using VRC.SDK3.Components;\r\n        \r\n         # using
     VRC.SDKBase;\r\n        \r\n         # using VRC.Udon;\r\n        \r\n         #
     public class Reset : UdonSharpBehaviour\r\n.code_start\r\n        \r\n         #
-    GameObject root;\r\n        \r\n         # UdonBehaviour script;\r\n        \r\n
+    GameObject parent;\r\n        \r\n         # UdonBehaviour script;\r\n        \r\n
     \        # void Start()\r\n    .export _start\r\n        \r\n    _start:\r\n        \r\n
     \       PUSH, __0_const_intnl_SystemUInt32\r\n        PUSH, __0_intnl_returnTarget_UInt32\r\n
-    \       COPY\r\n        \r\n         # {\r\n        \r\n         # root = transform.root.gameObject;\r\n
+    \       COPY\r\n        \r\n         # {\r\n        \r\n         # parent = transform.parent.gameObject;\r\n
     \       PUSH, __0_this_intnl_UnityEngineTransform\r\n        PUSH, __0_intnl_UnityEngineTransform\r\n
-    \       EXTERN, \"UnityEngineTransform.__get_root__UnityEngineTransform\"\r\n
+    \       EXTERN, \"UnityEngineTransform.__get_parent__UnityEngineTransform\"\r\n
     \       PUSH, __0_intnl_UnityEngineTransform\r\n        PUSH, __0_intnl_UnityEngineGameObject\r\n
     \       EXTERN, \"UnityEngineTransform.__get_gameObject__UnityEngineGameObject\"\r\n
-    \       PUSH, __0_intnl_UnityEngineGameObject\r\n        PUSH, root\r\n        COPY\r\n
-    \       \r\n         # script = (UdonBehaviour)root.GetComponent(typeof(UdonBehaviour));\r\n
-    \       PUSH, root\r\n        PUSH, __0_const_intnl_SystemType\r\n        PUSH,
+    \       PUSH, __0_intnl_UnityEngineGameObject\r\n        PUSH, parent\r\n        COPY\r\n
+    \       \r\n         # script = (UdonBehaviour)parent.GetComponent(typeof(UdonBehaviour));\r\n
+    \       PUSH, parent\r\n        PUSH, __0_const_intnl_SystemType\r\n        PUSH,
     __0_intnl_UnityEngineComponent\r\n        EXTERN, \"UnityEngineGameObject.__GetComponent__SystemType__UnityEngineComponent\"\r\n
     \       PUSH, __0_intnl_UnityEngineComponent\r\n        PUSH, __0_intnl_VRCUdonCommonInterfacesIUdonEventReceiver\r\n
     \       COPY\r\n        PUSH, __0_intnl_VRCUdonCommonInterfacesIUdonEventReceiver\r\n
@@ -258,290 +258,293 @@ MonoBehaviour:
     - startInstruction: 0
       endInstruction: -1
       startSourceChar: 161
-      endSourceChar: 183
+      endSourceChar: 185
       line: 12
       lineChar: 4
-      spanCodeSection: "GameObject root;\r\n    "
+      spanCodeSection: "GameObject parent;\r\n    "
     - startInstruction: 0
       endInstruction: -1
-      startSourceChar: 183
-      endSourceChar: 183
+      startSourceChar: 185
+      endSourceChar: 185
       line: 13
       lineChar: 4
       spanCodeSection: 
     - startInstruction: 0
       endInstruction: -1
-      startSourceChar: 183
-      endSourceChar: 183
+      startSourceChar: 185
+      endSourceChar: 185
       line: 13
       lineChar: 4
       spanCodeSection: 
     - startInstruction: 0
       endInstruction: -1
-      startSourceChar: 183
-      endSourceChar: 212
+      startSourceChar: 185
+      endSourceChar: 214
       line: 13
       lineChar: 4
       spanCodeSection: "UdonBehaviour script;\r\n\r\n    "
     - startInstruction: 0
       endInstruction: 19
-      startSourceChar: 212
-      endSourceChar: 230
+      startSourceChar: 214
+      endSourceChar: 232
       line: 15
       lineChar: 4
       spanCodeSection: "void Start()\r\n    "
     - startInstruction: 20
       endInstruction: 19
-      startSourceChar: 230
-      endSourceChar: 241
+      startSourceChar: 232
+      endSourceChar: 268
       line: 16
       lineChar: 4
-      spanCodeSection: "{\r\n        "
+      spanCodeSection: "{\r\n        // \u30EB\u30FC\u30C8\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8\u3092\u53D6\u5F97\r\n
+        \       "
     - startInstruction: 20
       endInstruction: 19
-      startSourceChar: 241
-      endSourceChar: 241
-      line: 17
+      startSourceChar: 268
+      endSourceChar: 268
+      line: 18
       lineChar: 8
       spanCodeSection: 
     - startInstruction: 20
       endInstruction: 19
-      startSourceChar: 241
-      endSourceChar: 248
-      line: 17
+      startSourceChar: 268
+      endSourceChar: 277
+      line: 18
       lineChar: 8
-      spanCodeSection: 'root = '
+      spanCodeSection: 'parent = '
     - startInstruction: 20
       endInstruction: 19
-      startSourceChar: 248
-      endSourceChar: 248
-      line: 17
-      lineChar: 15
+      startSourceChar: 277
+      endSourceChar: 277
+      line: 18
+      lineChar: 17
       spanCodeSection: 
     - startInstruction: 20
       endInstruction: 19
-      startSourceChar: 248
-      endSourceChar: 248
-      line: 17
-      lineChar: 15
+      startSourceChar: 277
+      endSourceChar: 277
+      line: 18
+      lineChar: 17
       spanCodeSection: 
     - startInstruction: 20
       endInstruction: 19
-      startSourceChar: 248
-      endSourceChar: 258
-      line: 17
-      lineChar: 15
+      startSourceChar: 277
+      endSourceChar: 287
+      line: 18
+      lineChar: 17
       spanCodeSection: transform.
     - startInstruction: 20
       endInstruction: 19
-      startSourceChar: 258
-      endSourceChar: 263
-      line: 17
-      lineChar: 25
-      spanCodeSection: root.
+      startSourceChar: 287
+      endSourceChar: 294
+      line: 18
+      lineChar: 27
+      spanCodeSection: parent.
     - startInstruction: 20
       endInstruction: 87
-      startSourceChar: 263
-      endSourceChar: 284
-      line: 17
-      lineChar: 30
-      spanCodeSection: "gameObject;\r\n        "
+      startSourceChar: 294
+      endSourceChar: 350
+      line: 18
+      lineChar: 34
+      spanCodeSection: "gameObject;\r\n\r\n        // \u30EB\u30FC\u30C8\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8\u306EU#\u30B9\u30AF\u30EA\u30D7\u30C8\u3092\u53D6\u5F97\r\n
+        \       "
     - startInstruction: 88
       endInstruction: 87
-      startSourceChar: 284
-      endSourceChar: 284
-      line: 18
+      startSourceChar: 350
+      endSourceChar: 350
+      line: 21
       lineChar: 8
       spanCodeSection: 
     - startInstruction: 88
       endInstruction: 87
-      startSourceChar: 284
-      endSourceChar: 293
-      line: 18
+      startSourceChar: 350
+      endSourceChar: 359
+      line: 21
       lineChar: 8
       spanCodeSection: 'script = '
     - startInstruction: 88
       endInstruction: 87
-      startSourceChar: 293
-      endSourceChar: 308
-      line: 18
+      startSourceChar: 359
+      endSourceChar: 374
+      line: 21
       lineChar: 17
       spanCodeSection: (UdonBehaviour)
     - startInstruction: 88
       endInstruction: 87
-      startSourceChar: 308
-      endSourceChar: 326
-      line: 18
+      startSourceChar: 374
+      endSourceChar: 394
+      line: 21
       lineChar: 32
-      spanCodeSection: root.GetComponent(
+      spanCodeSection: parent.GetComponent(
     - startInstruction: 88
       endInstruction: 87
-      startSourceChar: 326
-      endSourceChar: 333
-      line: 18
-      lineChar: 50
+      startSourceChar: 394
+      endSourceChar: 401
+      line: 21
+      lineChar: 52
       spanCodeSection: typeof(
     - startInstruction: 88
       endInstruction: 167
-      startSourceChar: 333
-      endSourceChar: 370
-      line: 18
-      lineChar: 57
+      startSourceChar: 401
+      endSourceChar: 438
+      line: 21
+      lineChar: 59
       spanCodeSection: "UdonBehaviour));\r\n    }\r\n    \r\n\r\n    "
     - startInstruction: 168
       endInstruction: 187
-      startSourceChar: 370
-      endSourceChar: 407
-      line: 22
+      startSourceChar: 438
+      endSourceChar: 475
+      line: 25
       lineChar: 4
       spanCodeSection: "public override void Interact()\r\n    "
     - startInstruction: 188
       endInstruction: 187
-      startSourceChar: 407
-      endSourceChar: 418
-      line: 23
+      startSourceChar: 475
+      endSourceChar: 517
+      line: 26
       lineChar: 4
-      spanCodeSection: "{\r\n        "
+      spanCodeSection: "{\r\n        // \u30EB\u30FC\u30C8\u306E\u30B9\u30AF\u30EA\u30D7\u30C8\u304B\u3089\u95A2\u6570\u3092\u547C\u3073\u51FA\u3057\r\n
+        \       "
     - startInstruction: 188
       endInstruction: 187
-      startSourceChar: 418
-      endSourceChar: 418
-      line: 24
+      startSourceChar: 517
+      endSourceChar: 517
+      line: 28
       lineChar: 8
       spanCodeSection: 
     - startInstruction: 188
       endInstruction: 187
-      startSourceChar: 418
-      endSourceChar: 441
-      line: 24
+      startSourceChar: 517
+      endSourceChar: 540
+      line: 28
       lineChar: 8
       spanCodeSection: script.SendCustomEvent(
     - startInstruction: 188
       endInstruction: 219
-      startSourceChar: 441
-      endSourceChar: 469
-      line: 24
+      startSourceChar: 540
+      endSourceChar: 568
+      line: 28
       lineChar: 31
       spanCodeSection: "\"Reset\");\r\n    }\r\n    \r\n    "
     - startInstruction: 220
       endInstruction: 239
-      startSourceChar: 469
-      endSourceChar: 496
-      line: 27
+      startSourceChar: 568
+      endSourceChar: 595
+      line: 31
       lineChar: 4
       spanCodeSection: 'private void OnMouseDown() '
     - startInstruction: 240
       endInstruction: 239
-      startSourceChar: 496
-      endSourceChar: 507
-      line: 27
+      startSourceChar: 595
+      endSourceChar: 606
+      line: 31
       lineChar: 31
       spanCodeSection: "{\r\n        "
     - startInstruction: 240
       endInstruction: 239
-      startSourceChar: 507
-      endSourceChar: 507
-      line: 28
+      startSourceChar: 606
+      endSourceChar: 606
+      line: 32
       lineChar: 8
       spanCodeSection: 
     - startInstruction: 240
       endInstruction: 239
-      startSourceChar: 507
-      endSourceChar: 507
-      line: 28
+      startSourceChar: 606
+      endSourceChar: 606
+      line: 32
       lineChar: 8
       spanCodeSection: 
     - startInstruction: 240
       endInstruction: 239
-      startSourceChar: 507
-      endSourceChar: 507
-      line: 28
+      startSourceChar: 606
+      endSourceChar: 606
+      line: 32
       lineChar: 8
       spanCodeSection: 
     - startInstruction: 240
       endInstruction: 239
-      startSourceChar: 507
-      endSourceChar: 532
-      line: 28
+      startSourceChar: 606
+      endSourceChar: 631
+      line: 32
       lineChar: 8
       spanCodeSection: 'VRCPlayerApi localPlayer '
     - startInstruction: 240
       endInstruction: 239
-      startSourceChar: 532
-      endSourceChar: 534
-      line: 28
+      startSourceChar: 631
+      endSourceChar: 633
+      line: 32
       lineChar: 33
       spanCodeSection: '= '
     - startInstruction: 240
       endInstruction: 239
-      startSourceChar: 534
-      endSourceChar: 534
-      line: 28
+      startSourceChar: 633
+      endSourceChar: 633
+      line: 32
       lineChar: 35
       spanCodeSection: 
     - startInstruction: 240
       endInstruction: 239
-      startSourceChar: 534
-      endSourceChar: 545
-      line: 28
+      startSourceChar: 633
+      endSourceChar: 644
+      line: 32
       lineChar: 35
       spanCodeSection: Networking.
     - startInstruction: 240
       endInstruction: 275
-      startSourceChar: 545
-      endSourceChar: 622
-      line: 28
+      startSourceChar: 644
+      endSourceChar: 721
+      line: 32
       lineChar: 46
       spanCodeSection: "LocalPlayer;\r\n\r\n        // \u30D7\u30EC\u30A4\u30E4\u30FC\u304C\u3044\u306A\u3044
         \uFF1D \u30A8\u30C7\u30A3\u30BF\u30FC\u3067\u8D77\u52D5\u3057\u305F\u5834\u5408\u306F\u30AF\u30EA\u30C3\u30AF\u64CD\u4F5C\u3082\u3067\u304D\u308B\u3088\u3046\u306B\u3059\u308B\r\n
         \       "
     - startInstruction: 276
       endInstruction: 275
-      startSourceChar: 622
-      endSourceChar: 626
-      line: 31
+      startSourceChar: 721
+      endSourceChar: 725
+      line: 35
       lineChar: 8
       spanCodeSection: if (
     - startInstruction: 276
       endInstruction: 275
-      startSourceChar: 626
-      endSourceChar: 626
-      line: 31
+      startSourceChar: 725
+      endSourceChar: 725
+      line: 35
       lineChar: 12
       spanCodeSection: 
     - startInstruction: 276
       endInstruction: 295
-      startSourceChar: 626
-      endSourceChar: 641
-      line: 31
+      startSourceChar: 725
+      endSourceChar: 740
+      line: 35
       lineChar: 12
       spanCodeSection: 'localPlayer == '
     - startInstruction: 296
       endInstruction: 343
-      startSourceChar: 641
-      endSourceChar: 647
-      line: 31
+      startSourceChar: 740
+      endSourceChar: 746
+      line: 35
       lineChar: 27
       spanCodeSection: 'null) '
     - startInstruction: 344
       endInstruction: 343
-      startSourceChar: 647
-      endSourceChar: 647
-      line: 31
+      startSourceChar: 746
+      endSourceChar: 746
+      line: 35
       lineChar: 33
       spanCodeSection: 
     - startInstruction: 344
       endInstruction: 343
-      startSourceChar: 647
-      endSourceChar: 670
-      line: 31
+      startSourceChar: 746
+      endSourceChar: 769
+      line: 35
       lineChar: 33
       spanCodeSection: script.SendCustomEvent(
     - startInstruction: 344
       endInstruction: 344
-      startSourceChar: 670
-      endSourceChar: 670
-      line: 31
+      startSourceChar: 769
+      endSourceChar: 769
+      line: 35
       lineChar: 56
       spanCodeSection: 
   hasInteractEvent: 1
@@ -573,7 +576,7 @@ MonoBehaviour:
       Data: 
     - Name: $k
       Entry: 1
-      Data: root
+      Data: parent
     - Name: $v
       Entry: 7
       Data: 2|UdonSharp.FieldDefinition, UdonSharp.Editor
@@ -600,10 +603,10 @@ MonoBehaviour:
       Data: UnityEngineGameObject
     - Name: symbolOriginalName
       Entry: 1
-      Data: root
+      Data: parent
     - Name: symbolUniqueName
       Entry: 1
-      Data: root
+      Data: parent
     - Name: symbolDefaultValue
       Entry: 6
       Data: 
