@@ -34,7 +34,6 @@ namespace GrowingCliker {
 
         void Update() {
             CalcScale();
-            ViewText();
         }
 
 
@@ -57,6 +56,7 @@ namespace GrowingCliker {
             _count++;
             _height = defaultHeight * _count;
             _weight = defaultWeight * Mathf.Pow(_count,3);
+            ViewText();
         }
 
         // 倍率減少
@@ -69,6 +69,7 @@ namespace GrowingCliker {
             _count--;
             _height = defaultHeight * _count;
             _weight = defaultWeight * Mathf.Pow(_count,3);
+            ViewText();
         }
 
 
