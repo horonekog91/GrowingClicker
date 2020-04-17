@@ -18,7 +18,7 @@ namespace GrowingCliker {
         }
 
         void Update() {
-            animator.SetFloat("param", transform.localScale.x);
+            animator.SetFloat("scale", transform.localScale.x);
         }
     }
 
